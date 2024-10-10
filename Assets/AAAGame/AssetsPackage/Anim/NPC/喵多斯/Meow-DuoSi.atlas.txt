@@ -1,0 +1,76 @@
+﻿
+Meow-DuoSi.png
+size: 1146,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 1075, 358
+  size: 80, 69
+  orig: 82, 71
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: false
+  xy: 990, 119
+  size: 78, 99
+  orig: 80, 102
+  offset: 1, 2
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 450, 436
+  orig: 547, 453
+  offset: 1, 2
+  index: -1
+cloth
+  rotate: true
+  xy: 928, 32
+  size: 85, 169
+  orig: 85, 169
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 832, 132
+  size: 156, 86
+  orig: 168, 96
+  offset: 1, 1
+  index: -1
+flag
+  rotate: true
+  xy: 832, 10
+  size: 112, 94
+  orig: 125, 94
+  offset: 13, 0
+  index: -1
+glass
+  rotate: false
+  xy: 454, 10
+  size: 66, 32
+  orig: 68, 34
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 1075, 124
+  size: 232, 67
+  orig: 232, 67
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 454, 44
+  size: 376, 394
+  orig: 377, 394
+  offset: 1, 0
+  index: -1
+tail
+  rotate: true
+  xy: 832, 220
+  size: 218, 241
+  orig: 221, 241
+  offset: 0, 0
+  index: -1

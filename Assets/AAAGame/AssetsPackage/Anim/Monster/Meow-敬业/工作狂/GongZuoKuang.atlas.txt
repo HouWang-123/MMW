@@ -1,0 +1,90 @@
+﻿
+GongZuoKuang.png
+size: 1821,544
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ass
+  rotate: false
+  xy: 1340, 222
+  size: 356, 320
+  orig: 634, 674
+  offset: 132, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 658, 539
+  orig: 658, 539
+  offset: 0, 0
+  index: -1
+computer
+  rotate: true
+  xy: 1045, 56
+  size: 486, 293
+  orig: 488, 295
+  offset: 1, 1
+  index: -1
+eye-l
+  rotate: true
+  xy: 736, 9
+  size: 26, 71
+  orig: 28, 73
+  offset: 1, 1
+  index: -1
+eye-r
+  rotate: true
+  xy: 662, 7
+  size: 28, 72
+  orig: 30, 74
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 1340, 12
+  size: 315, 146
+  orig: 317, 148
+  offset: 1, 1
+  index: -1
+fire
+  rotate: true
+  xy: 662, 37
+  size: 505, 381
+  orig: 505, 381
+  offset: 0, 0
+  index: -1
+fire-l
+  rotate: false
+  xy: 1698, 253
+  size: 91, 139
+  orig: 94, 143
+  offset: 1, 2
+  index: -1
+fire-r
+  rotate: true
+  xy: 1698, 160
+  size: 91, 121
+  orig: 93, 123
+  offset: 1, 1
+  index: -1
+hand-r
+  rotate: true
+  xy: 1698, 394
+  size: 148, 88
+  orig: 150, 90
+  offset: 1, 1
+  index: -1
+line
+  rotate: false
+  xy: 1657, 25
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1045, 2
+  size: 71, 52
+  orig: 74, 54
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+﻿
+BengJing.png
+size: 1496,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ass
+  rotate: true
+  xy: 1020, 114
+  size: 141, 135
+  orig: 141, 135
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1159, 140
+  size: 401, 335
+  orig: 401, 335
+  offset: 0, 0
+  index: -1
+eyeball
+  rotate: false
+  xy: 420, 28
+  size: 307, 76
+  orig: 307, 76
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 420, 106
+  size: 437, 149
+  orig: 437, 149
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 729, 60
+  size: 470, 44
+  orig: 472, 46
+  offset: 1, 1
+  index: -1
+hand-l
+  rotate: false
+  xy: 1201, 2
+  size: 172, 136
+  orig: 172, 136
+  offset: 0, 0
+  index: -1
+hand-r
+  rotate: false
+  xy: 859, 114
+  size: 159, 141
+  orig: 159, 141
+  offset: 0, 0
+  index: -1
+hat-1
+  rotate: false
+  xy: 2, 6
+  size: 416, 249
+  orig: 416, 249
+  offset: 0, 0
+  index: -1
+hat-2
+  rotate: false
+  xy: 2, 257
+  size: 612, 284
+  orig: 612, 284
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 616, 257
+  size: 541, 284
+  orig: 548, 373
+  offset: 7, 0
+  index: -1

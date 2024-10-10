@@ -1,0 +1,34 @@
+﻿
+JunJun.png
+size: 760,1258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 636, 650
+  orig: 636, 650
+  offset: 0, 0
+  index: -1
+eyes-1
+  rotate: true
+  xy: 640, 208
+  size: 211, 91
+  orig: 213, 94
+  offset: 1, 1
+  index: -1
+eyes-2
+  rotate: true
+  xy: 640, 421
+  size: 231, 118
+  orig: 233, 121
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 2, 654
+  size: 751, 602
+  orig: 751, 602
+  offset: 0, 0
+  index: -1

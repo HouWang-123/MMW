@@ -1,0 +1,69 @@
+﻿
+KeBanYinXiang.png
+size: 1958,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1867, 351
+  size: 89, 121
+  orig: 91, 123
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: false
+  xy: 1812, 135
+  size: 118, 176
+  orig: 120, 178
+  offset: 1, 1
+  index: -1
+bag
+  rotate: false
+  xy: 1417, 58
+  size: 308, 414
+  orig: 310, 418
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 470, 683
+  orig: 470, 683
+  offset: 0, 0
+  index: -1
+horn-l
+  rotate: false
+  xy: 1727, 313
+  size: 138, 159
+  orig: 138, 159
+  offset: 0, 0
+  index: -1
+horn-r
+  rotate: true
+  xy: 1812, 5
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+tie
+  rotate: false
+  xy: 1727, 98
+  size: 83, 213
+  orig: 83, 213
+  offset: 0, 0
+  index: -1
+wing-l
+  rotate: false
+  xy: 1077, 43
+  size: 338, 429
+  orig: 338, 429
+  offset: 0, 0
+  index: -1
+wing-r
+  rotate: false
+  xy: 687, 18
+  size: 388, 454
+  orig: 388, 454
+  offset: 0, 0
+  index: -1

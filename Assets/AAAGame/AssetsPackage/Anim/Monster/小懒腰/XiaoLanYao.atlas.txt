@@ -1,0 +1,55 @@
+﻿
+XiaoLanYao.png
+size: 1595,1028
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y
+  rotate: true
+  xy: 696, 337
+  size: 689, 602
+  orig: 694, 602
+  offset: 0, 0
+  index: -1
+Y-b
+  rotate: false
+  xy: 2, 407
+  size: 692, 619
+  orig: 692, 619
+  offset: 0, 0
+  index: -1
+arm-l
+  rotate: true
+  xy: 1300, 711
+  size: 315, 293
+  orig: 315, 293
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 1300, 485
+  size: 280, 224
+  orig: 280, 224
+  offset: 0, 0
+  index: -1
+bed
+  rotate: false
+  xy: 660, 65
+  size: 799, 270
+  orig: 799, 270
+  offset: 0, 0
+  index: -1
+ear-l
+  rotate: false
+  xy: 2, 2
+  size: 656, 403
+  orig: 656, 403
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 1300, 373
+  size: 244, 110
+  orig: 246, 112
+  offset: 1, 1
+  index: -1

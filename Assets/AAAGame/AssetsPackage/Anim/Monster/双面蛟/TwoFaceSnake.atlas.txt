@@ -1,0 +1,153 @@
+﻿
+TwoFaceSnake.png
+size: 2707,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2-ear-l
+  rotate: false
+  xy: 1779, 171
+  size: 168, 187
+  orig: 168, 187
+  offset: 0, 0
+  index: -1
+2-ear-r
+  rotate: false
+  xy: 1949, 247
+  size: 188, 111
+  orig: 188, 111
+  offset: 0, 0
+  index: -1
+band
+  rotate: false
+  xy: 1137, 152
+  size: 390, 206
+  orig: 393, 208
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 408, 67
+  size: 371, 291
+  orig: 419, 541
+  offset: 0, 38
+  index: -1
+ear-r-l
+  rotate: false
+  xy: 1663, 2
+  size: 234, 157
+  orig: 234, 157
+  offset: 0, 0
+  index: -1
+ear-r-r
+  rotate: true
+  xy: 1506, 2
+  size: 148, 155
+  orig: 148, 155
+  offset: 0, 0
+  index: -1
+eye-l-1
+  rotate: false
+  xy: 1277, 19
+  size: 227, 131
+  orig: 227, 131
+  offset: 0, 0
+  index: -1
+eye-l-2
+  rotate: false
+  xy: 1045, 9
+  size: 230, 106
+  orig: 232, 108
+  offset: 1, 1
+  index: -1
+eye-r-1
+  rotate: false
+  xy: 790, 4
+  size: 253, 111
+  orig: 253, 111
+  offset: 0, 0
+  index: -1
+eye-r-2
+  rotate: false
+  xy: 408, 7
+  size: 257, 58
+  orig: 259, 60
+  offset: 1, 1
+  index: -1
+head-l
+  rotate: false
+  xy: 2092, 3
+  size: 327, 242
+  orig: 327, 242
+  offset: 0, 0
+  index: -1
+head-r
+  rotate: false
+  xy: 781, 117
+  size: 354, 241
+  orig: 357, 243
+  offset: 2, 1
+  index: -1
+line
+  rotate: true
+  xy: 1899, 37
+  size: 132, 171
+  orig: 132, 171
+  offset: 0, 0
+  index: -1
+mouth-l
+  rotate: false
+  xy: 1949, 176
+  size: 141, 69
+  orig: 143, 72
+  offset: 1, 1
+  index: -1
+mouth-r
+  rotate: false
+  xy: 667, 24
+  size: 121, 41
+  orig: 123, 43
+  offset: 1, 1
+  index: -1
+neck-l
+  rotate: false
+  xy: 2421, 142
+  size: 284, 216
+  orig: 284, 216
+  offset: 0, 0
+  index: -1
+neck-r
+  rotate: false
+  xy: 1529, 161
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 2, 19
+  size: 404, 339
+  orig: 476, 339
+  offset: 0, 0
+  index: -1
+tail2
+  rotate: false
+  xy: 2568, 5
+  size: 135, 135
+  orig: 137, 137
+  offset: 1, 1
+  index: -1
+tonuge-r
+  rotate: false
+  xy: 2139, 247
+  size: 182, 111
+  orig: 182, 113
+  offset: 0, 2
+  index: -1
+toungue-l
+  rotate: true
+  xy: 2421, 14
+  size: 126, 145
+  orig: 126, 145
+  offset: 0, 0
+  index: -1

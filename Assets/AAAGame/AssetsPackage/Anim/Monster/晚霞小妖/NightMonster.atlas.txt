@@ -1,0 +1,97 @@
+﻿
+NightMonster.png
+size: 571,1230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backpack
+  rotate: false
+  xy: 112, 192
+  size: 307, 299
+  orig: 309, 301
+  offset: 1, 1
+  index: -1
+ball
+  rotate: true
+  xy: 516, 1093
+  size: 46, 51
+  orig: 48, 53
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 493
+  size: 493, 375
+  orig: 493, 375
+  offset: 0, 0
+  index: -1
+ear-l
+  rotate: false
+  xy: 421, 388
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: false
+  xy: 459, 31
+  size: 104, 120
+  orig: 104, 120
+  offset: 0, 0
+  index: -1
+eye-l
+  rotate: true
+  xy: 516, 1141
+  size: 87, 51
+  orig: 89, 53
+  offset: 1, 1
+  index: -1
+eye-r
+  rotate: true
+  xy: 516, 1002
+  size: 89, 40
+  orig: 91, 42
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 2, 12
+  size: 479, 108
+  orig: 481, 111
+  offset: 1, 2
+  index: -1
+hand-l
+  rotate: false
+  xy: 112, 2
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+hand-r
+  rotate: true
+  xy: 421, 153
+  size: 233, 134
+  orig: 233, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 870
+  size: 512, 358
+  orig: 512, 358
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 497, 600
+  size: 268, 65
+  orig: 276, 74
+  offset: 6, 1
+  index: -1
+tail
+  rotate: true
+  xy: 349, 24
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1

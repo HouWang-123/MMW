@@ -1,0 +1,34 @@
+﻿
+so tired.png
+size: 1345,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 663, 634
+  orig: 699, 706
+  offset: 0, 3
+  index: -1
+ear-l
+  rotate: false
+  xy: 1040, 220
+  size: 303, 445
+  orig: 303, 445
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: true
+  xy: 1040, 11
+  size: 207, 254
+  orig: 207, 254
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 638, 46
+  size: 400, 619
+  orig: 401, 619
+  offset: 0, 0
+  index: -1

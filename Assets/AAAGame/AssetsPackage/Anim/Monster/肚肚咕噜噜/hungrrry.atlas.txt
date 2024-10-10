@@ -1,0 +1,41 @@
+﻿
+hungrrry.png
+size: 1284,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 742, 699
+  orig: 742, 699
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 746, 355
+  size: 505, 346
+  orig: 507, 348
+  offset: 1, 1
+  index: -1
+nose
+  rotate: false
+  xy: 1169, 73
+  size: 113, 116
+  orig: 115, 118
+  offset: 1, 1
+  index: -1
+teeth-down
+  rotate: false
+  xy: 746, 191
+  size: 460, 162
+  orig: 465, 165
+  offset: 4, 1
+  index: -1
+teeth-up
+  rotate: false
+  xy: 746, 16
+  size: 421, 173
+  orig: 423, 175
+  offset: 1, 1
+  index: -1

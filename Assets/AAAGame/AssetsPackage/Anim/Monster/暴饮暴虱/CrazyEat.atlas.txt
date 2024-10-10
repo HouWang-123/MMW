@@ -1,0 +1,90 @@
+﻿
+CrazyEat.png
+size: 1505,553
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KouShui
+  rotate: true
+  xy: 1267, 64
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 807, 549
+  orig: 807, 549
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 811, 96
+  size: 455, 141
+  orig: 459, 143
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 811, 6
+  size: 454, 88
+  orig: 457, 91
+  offset: 1, 2
+  index: -1
+food
+  rotate: false
+  xy: 1344, 86
+  size: 156, 136
+  orig: 158, 138
+  offset: 1, 1
+  index: -1
+foot-1-b
+  rotate: true
+  xy: 1267, 378
+  size: 173, 226
+  orig: 176, 228
+  offset: 2, 1
+  index: -1
+foot-1-f
+  rotate: false
+  xy: 1077, 327
+  size: 183, 224
+  orig: 186, 226
+  offset: 1, 1
+  index: -1
+foot-2-b
+  rotate: false
+  xy: 1185, 125
+  size: 157, 200
+  orig: 159, 203
+  offset: 1, 2
+  index: -1
+foot-3-b
+  rotate: false
+  xy: 954, 386
+  size: 121, 165
+  orig: 125, 168
+  offset: 3, 2
+  index: -1
+foot-3-f
+  rotate: true
+  xy: 1344, 224
+  size: 152, 159
+  orig: 155, 161
+  offset: 2, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 954, 121
+  size: 255, 50
+  orig: 257, 52
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 1006, 100
+  size: 177, 225
+  orig: 177, 225
+  offset: 0, 0
+  index: -1

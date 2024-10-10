@@ -1,0 +1,41 @@
+﻿
+Meow-QiangZhuang.png
+size: 1123,410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1008, 287
+  size: 113, 121
+  orig: 115, 121
+  offset: 2, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 1008, 158
+  size: 87, 127
+  orig: 87, 127
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 406, 696
+  orig: 513, 696
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 700, 4
+  size: 118, 35
+  orig: 120, 37
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 700, 41
+  size: 306, 367
+  orig: 306, 367
+  offset: 0, 0
+  index: -1

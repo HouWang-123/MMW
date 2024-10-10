@@ -1,0 +1,62 @@
+﻿
+PianGuan.png
+size: 1215,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 584, 688
+  orig: 584, 715
+  offset: 0, 27
+  index: -1
+eyes
+  rotate: false
+  xy: 692, 447
+  size: 349, 139
+  orig: 351, 141
+  offset: 1, 1
+  index: -1
+foot-l
+  rotate: true
+  xy: 1070, 55
+  size: 279, 143
+  orig: 313, 143
+  offset: 34, 0
+  index: -1
+foot-r
+  rotate: true
+  xy: 692, 25
+  size: 309, 152
+  orig: 309, 152
+  offset: 0, 0
+  index: -1
+hand-l
+  rotate: true
+  xy: 846, 230
+  size: 215, 188
+  orig: 215, 188
+  offset: 0, 0
+  index: -1
+hand-r
+  rotate: true
+  xy: 1043, 336
+  size: 250, 167
+  orig: 250, 167
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 692, 359
+  size: 86, 111
+  orig: 88, 115
+  offset: 1, 2
+  index: -1
+money
+  rotate: true
+  xy: 846, 2
+  size: 226, 222
+  orig: 226, 222
+  offset: 0, 0
+  index: -1

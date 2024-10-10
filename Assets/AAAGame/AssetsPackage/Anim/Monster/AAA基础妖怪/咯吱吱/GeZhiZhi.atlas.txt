@@ -1,0 +1,90 @@
+﻿
+GeZhiZhi.png
+size: 2354,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 840, 24
+  size: 499, 611
+  orig: 587, 611
+  offset: 47, 0
+  index: -1
+bubble-b
+  rotate: false
+  xy: 2, 3
+  size: 836, 520
+  orig: 838, 522
+  offset: 1, 1
+  index: -1
+bubble-f
+  rotate: false
+  xy: 1453, 249
+  size: 727, 274
+  orig: 727, 274
+  offset: 0, 0
+  index: -1
+chushou-l
+  rotate: true
+  xy: 1716, 49
+  size: 198, 262
+  orig: 198, 262
+  offset: 0, 0
+  index: -1
+chushou-r
+  rotate: true
+  xy: 1453, 27
+  size: 220, 261
+  orig: 510, 261
+  offset: 290, 0
+  index: -1
+ear-l
+  rotate: true
+  xy: 2182, 344
+  size: 146, 148
+  orig: 148, 150
+  offset: 1, 1
+  index: -1
+ear-r
+  rotate: true
+  xy: 1980, 60
+  size: 187, 143
+  orig: 189, 145
+  offset: 1, 1
+  index: -1
+eyes-1
+  rotate: false
+  xy: 1716, 2
+  size: 321, 45
+  orig: 323, 47
+  offset: 1, 1
+  index: -1
+eyes-2
+  rotate: true
+  xy: 2182, 21
+  size: 321, 85
+  orig: 323, 87
+  offset: 1, 1
+  index: -1
+jiao-l
+  rotate: false
+  xy: 2269, 119
+  size: 78, 105
+  orig: 80, 107
+  offset: 1, 1
+  index: -1
+jiao-r
+  rotate: false
+  xy: 2269, 226
+  size: 83, 116
+  orig: 86, 118
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 2182, 492
+  size: 162, 31
+  orig: 164, 33
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,62 @@
+﻿
+3min.png
+size: 758,1124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 615, 504
+  size: 221, 88
+  orig: 221, 88
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 615, 887
+  size: 235, 141
+  orig: 235, 141
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 736, 413
+  orig: 736, 413
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: true
+  xy: 615, 727
+  size: 158, 139
+  orig: 158, 139
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 615, 452
+  size: 138, 50
+  orig: 138, 50
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 705, 660
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 2, 417
+  size: 705, 611
+  orig: 705, 611
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 615, 430
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

@@ -80,8 +80,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\UI\UIFormLogic.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Localization\LoadDictionaryFailureEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Scene\SceneComponent.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Debugger\DebuggerComponent.ScreenInformationWindow.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\UI\UIIntKey.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Debugger\DebuggerComponent.ScreenInformationWindow.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\FileSystem\FileSystemHelperBase.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\UI\UIComponent.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Download\DownloadFailureEventArgs.cs" />
@@ -156,8 +156,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\ObjectPool\ObjectPoolComponent.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\WebRequest\WWWFormInfo.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\UI\UIGroupHelperBase.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceComponent.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\WebRequest\WebRequestFailureEventArgs.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceComponent.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\ResourceUpdateFailureEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Sound\DefaultSoundHelper.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Resource\BuiltinVersionListSerializer.PackageVersionListSerializeCallback.cs" />
@@ -208,8 +208,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Variable\VarString.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Debugger\DebuggerActiveWindowType.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\UI\OpenUIFormFailureEventArgs.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Entity\EntityComponent.EntityGroup.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Sound\PlaySoundInfo.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Entity\EntityComponent.EntityGroup.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Download\DownloadSuccessEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Sound\PlaySoundUpdateEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\Scripts\Runtime\Utility\DefaultVersionHelper.cs" />
@@ -679,11 +679,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="dnlib">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\dnlib.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\dnlib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\LZ4.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\LZ4.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">

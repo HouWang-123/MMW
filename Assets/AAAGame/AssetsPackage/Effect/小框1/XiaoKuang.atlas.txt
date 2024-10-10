@@ -1,0 +1,62 @@
+﻿
+XiaoKuang.png
+size: 1019,1238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 570, 48
+  size: 384, 267
+  orig: 387, 269
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 839, 257
+  size: 178, 175
+  orig: 180, 177
+  offset: 1, 1
+  index: -1
+2.1
+  rotate: false
+  xy: 62, 71
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 1
+  index: -1
+2.2
+  rotate: true
+  xy: 2, 62
+  size: 36, 58
+  orig: 38, 60
+  offset: 1, 1
+  index: -1
+2.3
+  rotate: true
+  xy: 68, 14
+  size: 55, 104
+  orig: 64, 106
+  offset: 7, 1
+  index: -1
+2.4
+  rotate: true
+  xy: 2, 2
+  size: 44, 64
+  orig: 49, 66
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 100
+  size: 566, 332
+  orig: 566, 332
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 434
+  size: 1010, 802
+  orig: 1012, 837
+  offset: 1, 2
+  index: -1

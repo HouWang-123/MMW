@@ -1,0 +1,76 @@
+﻿
+Meow-LingLong.png
+size: 853,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 731, 71
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 557, 3
+  size: 95, 131
+  orig: 98, 141
+  offset: 3, 10
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 553, 502
+  orig: 615, 514
+  offset: 44, 10
+  index: -1
+cloth
+  rotate: false
+  xy: 557, 320
+  size: 251, 185
+  orig: 253, 187
+  offset: 1, 1
+  index: -1
+ear ring-l
+  rotate: false
+  xy: 810, 455
+  size: 41, 50
+  orig: 43, 54
+  offset: 1, 1
+  index: -1
+ear ring-r
+  rotate: false
+  xy: 690, 47
+  size: 37, 51
+  orig: 41, 54
+  offset: 2, 1
+  index: -1
+eyes
+  rotate: true
+  xy: 810, 344
+  size: 109, 26
+  orig: 111, 28
+  offset: 1, 1
+  index: -1
+flower
+  rotate: false
+  xy: 731, 195
+  size: 84, 123
+  orig: 84, 123
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 690, 2
+  size: 43, 38
+  orig: 45, 40
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 557, 100
+  size: 172, 218
+  orig: 172, 244
+  offset: 0, 0
+  index: -1

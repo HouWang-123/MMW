@@ -1,0 +1,97 @@
+﻿
+ZhuanJia.png
+size: 1323,930
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 745, 15
+  size: 327, 301
+  orig: 327, 301
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 1074, 6
+  size: 125, 71
+  orig: 128, 74
+  offset: 1, 1
+  index: -1
+ear-l
+  rotate: false
+  xy: 1204, 648
+  size: 117, 280
+  orig: 119, 283
+  offset: 1, 1
+  index: -1
+ear-r
+  rotate: false
+  xy: 1100, 367
+  size: 178, 278
+  orig: 180, 281
+  offset: 1, 2
+  index: -1
+eyes
+  rotate: true
+  xy: 1188, 133
+  size: 128, 50
+  orig: 130, 52
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 1280, 499
+  size: 147, 31
+  orig: 149, 33
+  offset: 1, 1
+  index: -1
+leg-l
+  rotate: true
+  xy: 1100, 263
+  size: 102, 144
+  orig: 104, 146
+  offset: 1, 1
+  index: -1
+leg-r
+  rotate: false
+  xy: 1074, 133
+  size: 112, 128
+  orig: 115, 131
+  offset: 1, 2
+  index: -1
+light
+  rotate: false
+  xy: 406, 2
+  size: 337, 259
+  orig: 342, 263
+  offset: 2, 2
+  index: -1
+light-1
+  rotate: false
+  xy: 696, 647
+  size: 506, 281
+  orig: 508, 285
+  offset: 1, 2
+  index: -1
+light-2
+  rotate: false
+  xy: 2, 6
+  size: 402, 255
+  orig: 404, 257
+  offset: 1, 1
+  index: -1
+show
+  rotate: false
+  xy: 696, 318
+  size: 402, 327
+  orig: 404, 329
+  offset: 1, 1
+  index: -1
+tv
+  rotate: false
+  xy: 2, 263
+  size: 692, 665
+  orig: 694, 667
+  offset: 1, 1
+  index: -1

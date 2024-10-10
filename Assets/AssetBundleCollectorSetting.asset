@@ -12,7 +12,70 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 185f6993d5150494d98da50e26cb1c25, type: 3}
   m_Name: AssetBundleCollectorSetting
   m_EditorClassIdentifier: 
-  ShowPackageView: 0
-  ShowEditorAlias: 0
-  UniqueBundleName: 0
-  Packages: []
+  ShowPackageView: 1
+  ShowEditorAlias: 1
+  UniqueBundleName: 1
+  Packages:
+  - PackageName: Default
+    PackageDesc: "\u9ED8\u8BA4\u8D44\u6E90\u5305"
+    EnableAddressable: 0
+    LocationToLower: 0
+    IncludeAssetGUID: 0
+    AutoCollectShaders: 0
+    IgnoreRuleName: 
+    Groups:
+    - GroupName: UIForm
+      GroupDesc: "UI\u9875\u9762"
+      AssetTags: uiform
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/AAAGame/AssetsPackage/UIForm
+        CollectorGUID: 366ff559b4d790b40bbfc9ae144449db
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: "UI\u9884\u5236\u4F53"
+        UserData: 
+    - GroupName: Anim
+      GroupDesc: "\u89D2\u8272\u52A8\u753B"
+      AssetTags: Anim
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/AAAGame/AssetsPackage/Anim/Monster
+        CollectorGUID: db89e6cd89748954f8426d42078eae99
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: "\u602A\u7269\u52A8\u753B"
+        UserData: 
+      - CollectPath: Assets/AAAGame/AssetsPackage/Anim/Player
+        CollectorGUID: 249b910134839504bbe7e20dc80dd95d
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: "\u89D2\u8272\u52A8\u753B"
+        UserData: 
+      - CollectPath: Assets/AAAGame/AssetsPackage/Anim/NPC
+        CollectorGUID: 53e0363db9bbb2b4386b1fb77f254c37
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: "NPC\u52A8\u753B"
+        UserData: 
+    - GroupName: Texture
+      GroupDesc: "UI\u6750\u8D28"
+      AssetTags: Texture
+      ActiveRuleName: EnableGroup
+      Collectors:
+      - CollectPath: Assets/AAAGame/AssetsPackage/Texture
+        CollectorGUID: b9fa7d855a6e8a8478a96c0c14cfa80e
+        CollectorType: 0
+        AddressRuleName: AddressByFileName
+        PackRuleName: PackDirectory
+        FilterRuleName: CollectAll
+        AssetTags: 
+        UserData: 

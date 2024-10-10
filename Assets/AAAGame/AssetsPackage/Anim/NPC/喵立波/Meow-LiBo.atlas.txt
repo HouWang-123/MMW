@@ -1,0 +1,76 @@
+﻿
+Meow-LiBo.png
+size: 676,623
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hair-mouth
+  rotate: false
+  xy: 2, 9
+  size: 206, 65
+  orig: 206, 65
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 210, 19
+  size: 55, 238
+  orig: 55, 238
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 357
+  size: 264, 648
+  orig: 264, 665
+  offset: 0, 17
+  index: -1
+ear-l
+  rotate: false
+  xy: 450, 2
+  size: 97, 103
+  orig: 97, 107
+  offset: 0, 4
+  index: -1
+eyes
+  rotate: false
+  xy: 244, 87
+  size: 73, 18
+  orig: 75, 21
+  offset: 1, 2
+  index: -1
+hair
+  rotate: true
+  xy: 2, 76
+  size: 279, 240
+  orig: 279, 241
+  offset: 0, 1
+  index: -1
+hat-b
+  rotate: true
+  xy: 549, 68
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 476, 156
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+ram-l
+  rotate: true
+  xy: 244, 107
+  size: 89, 230
+  orig: 89, 230
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 244, 198
+  size: 157, 405
+  orig: 157, 407
+  offset: 0, 2
+  index: -1

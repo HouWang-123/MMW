@@ -1,0 +1,76 @@
+﻿
+RenRenGui.png
+size: 2008,670
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1514, 38
+  size: 202, 218
+  orig: 202, 218
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 1234, 206
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 776, 68
+  size: 456, 600
+  orig: 456, 641
+  offset: 0, 41
+  index: -1
+body
+  rotate: true
+  xy: 2, 15
+  size: 653, 772
+  orig: 747, 778
+  offset: 2, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 1838, 329
+  size: 339, 168
+  orig: 342, 170
+  offset: 1, 1
+  index: -1
+hair-1
+  rotate: true
+  xy: 1234, 465
+  size: 203, 602
+  orig: 307, 602
+  offset: 8, 0
+  index: -1
+hair-2
+  rotate: false
+  xy: 1871, 34
+  size: 77, 293
+  orig: 133, 333
+  offset: 0, 0
+  index: -1
+hair-3
+  rotate: false
+  xy: 1780, 18
+  size: 89, 309
+  orig: 117, 309
+  offset: 28, 0
+  index: -1
+stick
+  rotate: true
+  xy: 1234, 2
+  size: 202, 278
+  orig: 204, 280
+  offset: 1, 1
+  index: -1
+~
+  rotate: false
+  xy: 1493, 258
+  size: 285, 205
+  orig: 289, 207
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,104 @@
+﻿
+NingShi.png
+size: 1482,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-1-l
+  rotate: false
+  xy: 1226, 29
+  size: 134, 170
+  orig: 136, 172
+  offset: 1, 1
+  index: -1
+arm-1-r
+  rotate: true
+  xy: 1200, 308
+  size: 194, 124
+  orig: 196, 126
+  offset: 1, 1
+  index: -1
+arm-2-l
+  rotate: true
+  xy: 1326, 340
+  size: 172, 148
+  orig: 174, 150
+  offset: 1, 1
+  index: -1
+arm-2-r
+  rotate: true
+  xy: 1362, 19
+  size: 182, 118
+  orig: 185, 120
+  offset: 2, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 25
+  size: 613, 794
+  orig: 613, 871
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 798, 321
+  size: 400, 181
+  orig: 402, 183
+  offset: 1, 1
+  index: -1
+eyes-b
+  rotate: false
+  xy: 798, 504
+  size: 452, 134
+  orig: 454, 136
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 798, 194
+  size: 390, 125
+  orig: 394, 128
+  offset: 2, 1
+  index: -1
+jiao-l
+  rotate: true
+  xy: 1252, 514
+  size: 124, 227
+  orig: 171, 229
+  offset: 46, 1
+  index: -1
+jiao-r
+  rotate: true
+  xy: 979, 65
+  size: 127, 245
+  orig: 130, 248
+  offset: 2, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 979, 28
+  size: 239, 35
+  orig: 242, 38
+  offset: 2, 1
+  index: -1
+snack-1
+  rotate: false
+  xy: 1190, 201
+  size: 114, 105
+  orig: 116, 109
+  offset: 1, 1
+  index: -1
+snack-2
+  rotate: false
+  xy: 1326, 203
+  size: 141, 135
+  orig: 143, 137
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 798, 2
+  size: 179, 190
+  orig: 179, 222
+  offset: 0, 15
+  index: -1

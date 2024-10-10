@@ -1,0 +1,251 @@
+﻿
+MaoDianZhang.png
+size: 1873,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+I
+  rotate: false
+  xy: 843, 252
+  size: 265, 376
+  orig: 265, 376
+  offset: 0, 0
+  index: -1
+arm-b
+  rotate: false
+  xy: 1800, 222
+  size: 71, 93
+  orig: 72, 93
+  offset: 1, 0
+  index: -1
+arm-f
+  rotate: false
+  xy: 863, 2
+  size: 88, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+banzi-1
+  rotate: true
+  xy: 1502, 7
+  size: 308, 296
+  orig: 308, 296
+  offset: 0, 0
+  index: -1
+banzi-2
+  rotate: false
+  xy: 507, 74
+  size: 60, 165
+  orig: 60, 165
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1199, 288
+  size: 340, 301
+  orig: 346, 301
+  offset: 6, 0
+  index: -1
+chazi
+  rotate: false
+  xy: 1800, 137
+  size: 69, 83
+  orig: 73, 87
+  offset: 2, 2
+  index: -1
+cloth
+  rotate: false
+  xy: 900, 109
+  size: 341, 141
+  orig: 341, 141
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 1820, 356
+  size: 135, 45
+  orig: 135, 45
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: true
+  xy: 1820, 493
+  size: 135, 45
+  orig: 135, 45
+  offset: 0, 0
+  index: -1
+fish-1
+  rotate: true
+  xy: 1141, 13
+  size: 94, 125
+  orig: 96, 127
+  offset: 1, 1
+  index: -1
+fish-2
+  rotate: false
+  xy: 1073, 7
+  size: 66, 100
+  orig: 68, 102
+  offset: 1, 1
+  index: -1
+fish-arm
+  rotate: true
+  xy: 676, 82
+  size: 157, 124
+  orig: 159, 126
+  offset: 1, 1
+  index: -1
+fish-eye
+  rotate: true
+  xy: 77, 10
+  size: 20, 41
+  orig: 23, 43
+  offset: 1, 1
+  index: -1
+fish-han
+  rotate: false
+  xy: 60, 5
+  size: 15, 25
+  orig: 18, 27
+  offset: 1, 1
+  index: -1
+hat
+  rotate: true
+  xy: 1268, 26
+  size: 260, 113
+  orig: 260, 113
+  offset: 0, 0
+  index: -1
+hat-1
+  rotate: true
+  xy: 1800, 80
+  size: 55, 64
+  orig: 58, 66
+  offset: 1, 1
+  index: -1
+hat-2
+  rotate: true
+  xy: 541, 2
+  size: 70, 78
+  orig: 72, 80
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 467, 241
+  size: 387, 374
+  orig: 387, 374
+  offset: 0, 0
+  index: -1
+line-1
+  rotate: false
+  xy: 2, 18
+  size: 56, 206
+  orig: 56, 206
+  offset: 0, 0
+  index: -1
+line-2
+  rotate: false
+  xy: 1110, 285
+  size: 87, 343
+  orig: 87, 343
+  offset: 0, 0
+  index: -1
+meow-body
+  rotate: false
+  xy: 621, 4
+  size: 138, 74
+  orig: 138, 74
+  offset: 0, 0
+  index: -1
+meow-head
+  rotate: false
+  xy: 1383, 226
+  size: 78, 60
+  orig: 80, 62
+  offset: 1, 1
+  index: -1
+shani-1
+  rotate: false
+  xy: 1383, 92
+  size: 74, 132
+  orig: 76, 135
+  offset: 1, 2
+  index: -1
+shanzi-2
+  rotate: false
+  xy: 569, 80
+  size: 105, 159
+  orig: 108, 161
+  offset: 1, 1
+  index: -1
+shanzi-3
+  rotate: true
+  xy: 94, 239
+  size: 389, 371
+  orig: 389, 371
+  offset: 0, 0
+  index: -1
+shanzi-I
+  rotate: true
+  xy: 2, 226
+  size: 402, 90
+  orig: 402, 90
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 1502, 317
+  size: 311, 316
+  orig: 311, 342
+  offset: 0, 26
+  index: -1
+tail-on
+  rotate: false
+  xy: 157, 7
+  size: 227, 230
+  orig: 227, 231
+  offset: 0, 1
+  index: -1
+tishou
+  rotate: false
+  xy: 761, 2
+  size: 100, 78
+  orig: 102, 80
+  offset: 1, 1
+  index: -1
+tong-b
+  rotate: false
+  xy: 953, 7
+  size: 118, 100
+  orig: 120, 102
+  offset: 1, 1
+  index: -1
+tong-f
+  rotate: true
+  xy: 802, 90
+  size: 149, 96
+  orig: 151, 98
+  offset: 1, 1
+  index: -1
+water
+  rotate: true
+  xy: 60, 32
+  size: 192, 95
+  orig: 192, 95
+  offset: 0, 0
+  index: -1
+wing-1
+  rotate: true
+  xy: 386, 3
+  size: 51, 153
+  orig: 51, 153
+  offset: 0, 0
+  index: -1
+wing-2
+  rotate: false
+  xy: 386, 56
+  size: 119, 181
+  orig: 119, 181
+  offset: 0, 0
+  index: -1

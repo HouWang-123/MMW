@@ -1,0 +1,55 @@
+﻿
+WuCaiHei.png
+size: 693,627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 535, 96
+  size: 151, 119
+  orig: 154, 121
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: true
+  xy: 535, 217
+  size: 175, 154
+  orig: 177, 156
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 36
+  size: 589, 481
+  orig: 589, 481
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 2
+  size: 289, 32
+  orig: 292, 34
+  offset: 1, 1
+  index: -1
+face
+  rotate: true
+  xy: 485, 18
+  size: 374, 48
+  orig: 376, 61
+  offset: 1, 1
+  index: -1
+hat
+  rotate: false
+  xy: 485, 394
+  size: 206, 231
+  orig: 208, 233
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 535, 17
+  size: 77, 55
+  orig: 80, 57
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+﻿
+BaoXian.png
+size: 1065,1222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 918, 809
+  size: 83, 51
+  orig: 86, 53
+  offset: 2, 1
+  index: -1
+back1
+  rotate: false
+  xy: 618, 862
+  size: 445, 358
+  orig: 448, 360
+  offset: 1, 1
+  index: -1
+back2
+  rotate: false
+  xy: 2, 32
+  size: 556, 550
+  orig: 558, 552
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 802, 325
+  size: 227, 259
+  orig: 245, 259
+  offset: 18, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 584
+  size: 614, 636
+  orig: 616, 638
+  offset: 1, 1
+  index: -1
+door
+  rotate: false
+  xy: 560, 35
+  size: 240, 547
+  orig: 240, 547
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 802, 109
+  size: 94, 37
+  orig: 96, 39
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 982, 228
+  size: 95, 24
+  orig: 97, 26
+  offset: 1, 1
+  index: -1
+line
+  rotate: false
+  xy: 802, 148
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 114, 16
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+teer
+  rotate: false
+  xy: 2, 2
+  size: 110, 28
+  orig: 112, 30
+  offset: 1, 1
+  index: -1
+vegetable
+  rotate: false
+  xy: 618, 586
+  size: 298, 274
+  orig: 385, 301
+  offset: 0, 0
+  index: -1

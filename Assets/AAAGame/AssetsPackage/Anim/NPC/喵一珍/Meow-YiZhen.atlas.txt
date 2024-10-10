@@ -1,0 +1,97 @@
+﻿
+Meow-YiZhen.png
+size: 1110,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 795, 14
+  size: 125, 129
+  orig: 125, 129
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 666, 14
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 36
+  size: 532, 472
+  orig: 701, 488
+  offset: 60, 16
+  index: -1
+cloth
+  rotate: true
+  xy: 536, 145
+  size: 363, 310
+  orig: 363, 329
+  offset: 0, 16
+  index: -1
+eyes
+  rotate: false
+  xy: 350, 16
+  size: 105, 18
+  orig: 107, 20
+  offset: 1, 1
+  index: -1
+glass
+  rotate: false
+  xy: 197, 11
+  size: 151, 23
+  orig: 154, 26
+  offset: 2, 1
+  index: -1
+hat
+  rotate: false
+  xy: 848, 331
+  size: 250, 177
+  orig: 250, 177
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: false
+  xy: 536, 13
+  size: 128, 130
+  orig: 134, 138
+  offset: 1, 7
+  index: -1
+leg-r
+  rotate: true
+  xy: 922, 19
+  size: 99, 131
+  orig: 101, 143
+  offset: 1, 11
+  index: -1
+line-green
+  rotate: false
+  xy: 848, 166
+  size: 38, 163
+  orig: 44, 165
+  offset: 1, 1
+  index: -1
+line-purple
+  rotate: true
+  xy: 2, 13
+  size: 21, 193
+  orig: 23, 195
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 1055, 2
+  size: 116, 52
+  orig: 118, 54
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 922, 120
+  size: 186, 209
+  orig: 186, 239
+  offset: 0, 0
+  index: -1

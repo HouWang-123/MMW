@@ -1,0 +1,83 @@
+﻿
+tommorrow.png
+size: 1435,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1294, 18
+  size: 127, 180
+  orig: 127, 180
+  offset: 0, 0
+  index: -1
+chicken
+  rotate: false
+  xy: 2, 180
+  size: 510, 471
+  orig: 510, 471
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 514, 291
+  size: 707, 360
+  orig: 707, 360
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 1102, 19
+  size: 179, 190
+  orig: 182, 192
+  offset: 2, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 1102, 200
+  size: 294, 89
+  orig: 296, 91
+  offset: 1, 1
+  index: -1
+hat
+  rotate: true
+  xy: 1223, 373
+  size: 278, 197
+  orig: 278, 197
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: true
+  xy: 447, 67
+  size: 111, 61
+  orig: 111, 61
+  offset: 0, 0
+  index: -1
+leg-r
+  rotate: false
+  xy: 1323, 320
+  size: 110, 51
+  orig: 110, 51
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1223, 292
+  size: 98, 79
+  orig: 100, 81
+  offset: 1, 1
+  index: -1
+shengzi
+  rotate: false
+  xy: 2, 2
+  size: 443, 176
+  orig: 443, 176
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 514, 43
+  size: 586, 246
+  orig: 586, 252
+  offset: 0, 6
+  index: -1

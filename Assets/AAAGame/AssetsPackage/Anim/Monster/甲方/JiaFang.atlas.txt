@@ -1,0 +1,48 @@
+﻿
+JiaFang.png
+size: 1009,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 766, 132
+  size: 122, 241
+  orig: 125, 244
+  offset: 2, 2
+  index: -1
+arm-r
+  rotate: true
+  xy: 500, 112
+  size: 142, 264
+  orig: 144, 266
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 2
+  size: 361, 496
+  orig: 361, 496
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 500, 256
+  size: 444, 107
+  orig: 444, 107
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 780, 10
+  size: 203, 120
+  orig: 207, 122
+  offset: 2, 1
+  index: -1
+lingdai
+  rotate: true
+  xy: 500, 33
+  size: 77, 278
+  orig: 77, 278
+  offset: 0, 0
+  index: -1

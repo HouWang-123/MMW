@@ -1,0 +1,104 @@
+﻿
+MoShi.png
+size: 1083,633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LingDai
+  rotate: true
+  xy: 750, 26
+  size: 129, 159
+  orig: 129, 159
+  offset: 0, 0
+  index: -1
+WeiBo
+  rotate: false
+  xy: 750, 561
+  size: 331, 70
+  orig: 338, 73
+  offset: 2, 1
+  index: -1
+arm-1-l
+  rotate: false
+  xy: 911, 26
+  size: 121, 124
+  orig: 123, 126
+  offset: 1, 1
+  index: -1
+arm-1-r
+  rotate: false
+  xy: 946, 413
+  size: 131, 146
+  orig: 133, 148
+  offset: 1, 1
+  index: -1
+arm-2-l
+  rotate: false
+  xy: 750, 275
+  size: 177, 158
+  orig: 179, 160
+  offset: 1, 1
+  index: -1
+arm-2-r
+  rotate: false
+  xy: 929, 152
+  size: 142, 131
+  orig: 145, 133
+  offset: 2, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 94
+  size: 537, 746
+  orig: 537, 746
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 97, 20
+  size: 394, 72
+  orig: 396, 75
+  offset: 1, 1
+  index: -1
+jiao-l
+  rotate: true
+  xy: 750, 157
+  size: 116, 172
+  orig: 119, 175
+  offset: 1, 1
+  index: -1
+jiao-r
+  rotate: true
+  xy: 750, 435
+  size: 124, 194
+  orig: 128, 196
+  offset: 2, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 493, 61
+  size: 169, 31
+  orig: 171, 33
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 929, 285
+  size: 126, 152
+  orig: 129, 155
+  offset: 2, 2
+  index: -1
+tear-l
+  rotate: true
+  xy: 2, 2
+  size: 90, 47
+  orig: 93, 49
+  offset: 2, 1
+  index: -1
+tear-r
+  rotate: true
+  xy: 51, 11
+  size: 81, 44
+  orig: 84, 47
+  offset: 1, 2
+  index: -1

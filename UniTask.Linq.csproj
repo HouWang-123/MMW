@@ -66,8 +66,8 @@
   <ItemGroup>
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\TakeLast.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\UnityExtensions\EveryUpdate.cs" />
-    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Zip.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\AsyncEnumeratorBase.cs" />
+    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Zip.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Cast.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ToArray.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ToDictionary.cs" />
@@ -112,8 +112,8 @@
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ToUniTaskAsyncEnumerable.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Take.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ElementAt.cs" />
-    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Do.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Select.cs" />
+    <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Do.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\ForEach.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\Sum.cs" />
     <Compile Include="Assets\Plugins\UniTask\Runtime\Linq\AsUniTaskAsyncEnumerable.cs" />
@@ -534,11 +534,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="dnlib">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\dnlib.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\dnlib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\LZ4.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\LZ4.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">

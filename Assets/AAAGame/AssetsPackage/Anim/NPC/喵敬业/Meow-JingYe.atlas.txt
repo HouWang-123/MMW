@@ -1,0 +1,76 @@
+﻿
+Meow-JingYe.png
+size: 485,928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 2, 2
+  size: 96, 201
+  orig: 96, 201
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 251, 39
+  size: 67, 209
+  orig: 67, 209
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 100
+  size: 247, 650
+  orig: 255, 665
+  offset: 8, 15
+  index: -1
+cloth-f-1
+  rotate: true
+  xy: 295, 564
+  size: 281, 178
+  orig: 290, 182
+  offset: 7, 2
+  index: -1
+eyes
+  rotate: true
+  xy: 251, 648
+  size: 78, 19
+  orig: 80, 21
+  offset: 1, 1
+  index: -1
+hat-1
+  rotate: false
+  xy: 251, 322
+  size: 232, 240
+  orig: 232, 240
+  offset: 0, 0
+  index: -1
+hat-2
+  rotate: false
+  xy: 251, 108
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+hat-b
+  rotate: false
+  xy: 295, 847
+  size: 179, 79
+  orig: 182, 81
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 251, 728
+  size: 22, 25
+  orig: 24, 27
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 2, 752
+  size: 174, 291
+  orig: 174, 291
+  offset: 0, 0
+  index: -1

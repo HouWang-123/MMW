@@ -1,0 +1,132 @@
+﻿
+Deadline.png
+size: 2471,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 2241, 4
+  size: 142, 154
+  orig: 144, 157
+  offset: 1, 2
+  index: -1
+arm-r
+  rotate: false
+  xy: 1637, 7
+  size: 207, 156
+  orig: 207, 190
+  offset: 0, 34
+  index: -1
+body
+  rotate: false
+  xy: 446, 25
+  size: 328, 436
+  orig: 328, 436
+  offset: 0, 0
+  index: -1
+cloth-l
+  rotate: false
+  xy: 1538, 165
+  size: 139, 296
+  orig: 139, 296
+  offset: 0, 0
+  index: -1
+cloth-r
+  rotate: false
+  xy: 1167, 60
+  size: 369, 401
+  orig: 369, 416
+  offset: 0, 15
+  index: -1
+doll
+  rotate: true
+  xy: 2, 2
+  size: 459, 442
+  orig: 459, 494
+  offset: 0, 52
+  index: -1
+doll-back
+  rotate: true
+  xy: 1679, 201
+  size: 260, 239
+  orig: 263, 241
+  offset: 1, 1
+  index: -1
+doll-leg1
+  rotate: false
+  xy: 2131, 248
+  size: 106, 213
+  orig: 106, 213
+  offset: 0, 0
+  index: -1
+doll-leg2
+  rotate: true
+  xy: 2241, 160
+  size: 70, 181
+  orig: 96, 181
+  offset: 26, 0
+  index: -1
+ear-l
+  rotate: true
+  xy: 1986, 4
+  size: 201, 253
+  orig: 201, 253
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: false
+  xy: 2241, 232
+  size: 227, 229
+  orig: 227, 229
+  offset: 0, 0
+  index: -1
+eye-l
+  rotate: false
+  xy: 2385, 71
+  size: 84, 87
+  orig: 86, 91
+  offset: 1, 2
+  index: -1
+eye-r
+  rotate: true
+  xy: 1538, 62
+  size: 101, 97
+  orig: 103, 99
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 1292, 8
+  size: 310, 50
+  orig: 312, 52
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 776, 46
+  size: 415, 389
+  orig: 438, 392
+  offset: 21, 2
+  index: -1
+knife
+  rotate: false
+  xy: 1920, 207
+  size: 209, 254
+  orig: 212, 256
+  offset: 2, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 1167, 3
+  size: 55, 123
+  orig: 55, 123
+  offset: 0, 0
+  index: -1
+pen
+  rotate: false
+  xy: 1846, 3
+  size: 138, 196
+  orig: 140, 198
+  offset: 1, 1
+  index: -1

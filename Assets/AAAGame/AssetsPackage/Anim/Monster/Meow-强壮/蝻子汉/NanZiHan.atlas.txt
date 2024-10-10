@@ -1,0 +1,83 @@
+﻿
+NanZiHan.png
+size: 464,2103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 2, 13
+  size: 136, 212
+  orig: 136, 212
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: true
+  xy: 2, 151
+  size: 84, 286
+  orig: 84, 286
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 1494
+  size: 455, 607
+  orig: 455, 607
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 237
+  size: 298, 127
+  orig: 302, 129
+  offset: 2, 1
+  index: -1
+face
+  rotate: true
+  xy: 396, 660
+  size: 318, 63
+  orig: 320, 65
+  offset: 1, 1
+  index: -1
+hat
+  rotate: true
+  xy: 2, 366
+  size: 612, 392
+  orig: 612, 392
+  offset: 0, 0
+  index: -1
+hat-b
+  rotate: true
+  xy: 2, 980
+  size: 512, 450
+  orig: 512, 450
+  offset: 0, 0
+  index: -1
+horn-l
+  rotate: true
+  xy: 290, 2
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+horn-r
+  rotate: false
+  xy: 302, 152
+  size: 148, 212
+  orig: 148, 212
+  offset: 0, 0
+  index: -1
+mouth-1
+  rotate: false
+  xy: 396, 631
+  size: 49, 27
+  orig: 51, 30
+  offset: 1, 1
+  index: -1
+mouth-2
+  rotate: true
+  xy: 447, 611
+  size: 47, 12
+  orig: 49, 15
+  offset: 1, 1
+  index: -1

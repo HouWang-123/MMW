@@ -1,0 +1,104 @@
+﻿
+WeaponStore.png
+size: 951,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+curtain-l
+  rotate: true
+  xy: 2, 51
+  size: 432, 399
+  orig: 432, 399
+  offset: 0, 0
+  index: -1
+curtain-r
+  rotate: true
+  xy: 403, 83
+  size: 400, 404
+  orig: 400, 404
+  offset: 0, 0
+  index: -1
+flower
+  rotate: false
+  xy: 809, 304
+  size: 137, 179
+  orig: 139, 181
+  offset: 1, 1
+  index: -1
+ribbon-l
+  rotate: false
+  xy: 809, 229
+  size: 140, 73
+  orig: 140, 88
+  offset: 0, 15
+  index: -1
+ribbon-l-1
+  rotate: true
+  xy: 809, 88
+  size: 29, 96
+  orig: 31, 98
+  offset: 1, 1
+  index: -1
+ribbon-l-2
+  rotate: false
+  xy: 29, 3
+  size: 22, 46
+  orig: 25, 49
+  offset: 1, 2
+  index: -1
+ribbon-l-3
+  rotate: false
+  xy: 403, 26
+  size: 25, 55
+  orig: 27, 57
+  offset: 1, 1
+  index: -1
+ribbon-l-4
+  rotate: false
+  xy: 908, 58
+  size: 35, 98
+  orig: 37, 101
+  offset: 1, 2
+  index: -1
+ribbon-r
+  rotate: false
+  xy: 809, 158
+  size: 140, 69
+  orig: 140, 69
+  offset: 0, 0
+  index: -1
+ribbon-r-1
+  rotate: false
+  xy: 53, 4
+  size: 22, 45
+  orig: 25, 48
+  offset: 2, 2
+  index: -1
+ribbon-r-2
+  rotate: true
+  xy: 809, 58
+  size: 28, 95
+  orig: 31, 97
+  offset: 2, 1
+  index: -1
+ribbon-r-3
+  rotate: false
+  xy: 2, 2
+  size: 25, 47
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+ribbon-r-4
+  rotate: true
+  xy: 809, 119
+  size: 37, 97
+  orig: 39, 99
+  offset: 1, 1
+  index: -1
+wood
+  rotate: false
+  xy: 2, 485
+  size: 932, 515
+  orig: 934, 556
+  offset: 1, 40
+  index: -1

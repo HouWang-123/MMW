@@ -86,8 +86,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\LoadResourceStatus.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Entity\HideEntityCompleteEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\DataTable\DataTableBase.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\Variable\Variable.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Network\AddressFamily.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\Variable\Variable.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\DataProvider\ReadDataUpdateEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Entity\ShowEntityDependencyAssetEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\TaskPool\TaskBase.cs" />
@@ -131,8 +131,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Network\IPacketHeader.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Sound\ISoundAgentHelper.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\GameFrameworkSerializer.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Utility\Utility.Converter.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Localization\ILocalizationHelper.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Utility\Utility.Converter.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\ResourceVerifySuccessEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\InitResourcesCompleteCallback.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\GameFrameworkLinkedList.cs" />
@@ -182,8 +182,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\GameFrameworkException.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Config\ConfigManager.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\DataProvider\ReadDataSuccessEventArgs.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\WebRequest\IWebRequestManager.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\ResourceVerifyStartEventArgs.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\WebRequest\IWebRequestManager.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Entity\IEntityGroup.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\LoadResourceAgentHelperReadBytesCompleteEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\DataTable\IDataRow.cs" />
@@ -286,8 +286,8 @@
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\ResourceManager.ResourceName.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\DataProvider\ReadDataDependencyAssetEventArgs.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Scene\LoadSceneSuccessEventArgs.cs" />
-    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\FileSystem\IFileSystemManager.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Download\DownloadAgentHelperUpdateBytesEventArgs.cs" />
+    <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\FileSystem\IFileSystemManager.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Resource\LoadBinarySuccessCallback.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Base\TaskPool\TaskStatus.cs" />
     <Compile Include="Assets\Plugins\UnityGameFramework\GameFramework\Fsm\FsmBase.cs" />
@@ -792,11 +792,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="dnlib">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\dnlib.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\dnlib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\LZ4.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\LZ4.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">

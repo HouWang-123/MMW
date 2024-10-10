@@ -1,0 +1,195 @@
+﻿
+CatStore.png
+size: 2049,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backbox
+  rotate: false
+  xy: 1587, 202
+  size: 254, 209
+  orig: 256, 212
+  offset: 1, 1
+  index: -1
+background
+  rotate: false
+  xy: 876, 114
+  size: 709, 297
+  orig: 711, 299
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 1843, 30
+  size: 134, 189
+  orig: 159, 210
+  offset: 25, 21
+  index: -1
+bone
+  rotate: true
+  xy: 1532, 9
+  size: 69, 46
+  orig: 72, 48
+  offset: 1, 1
+  index: -1
+catarm-l
+  rotate: false
+  xy: 1756, 3
+  size: 59, 85
+  orig: 60, 85
+  offset: 1, 0
+  index: -1
+catarm-r
+  rotate: false
+  xy: 1979, 5
+  size: 59, 87
+  orig: 60, 87
+  offset: 1, 0
+  index: -1
+cauldron
+  rotate: false
+  xy: 1843, 221
+  size: 147, 190
+  orig: 150, 192
+  offset: 2, 1
+  index: -1
+coin
+  rotate: false
+  xy: 1580, 32
+  size: 127, 40
+  orig: 139, 45
+  offset: 1, 1
+  index: -1
+coin-light
+  rotate: true
+  xy: 1841, 2
+  size: 26, 39
+  orig: 28, 42
+  offset: 1, 2
+  index: -1
+cup-b
+  rotate: true
+  xy: 1471, 30
+  size: 48, 59
+  orig: 50, 61
+  offset: 1, 1
+  index: -1
+cup-f
+  rotate: false
+  xy: 1992, 224
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+eyes-1
+  rotate: true
+  xy: 1817, 20
+  size: 68, 22
+  orig: 70, 24
+  offset: 1, 1
+  index: -1
+eyes-2
+  rotate: false
+  xy: 1112, 14
+  size: 80, 31
+  orig: 82, 33
+  offset: 1, 1
+  index: -1
+fish-1
+  rotate: true
+  xy: 1354, 60
+  size: 52, 115
+  orig: 54, 117
+  offset: 1, 1
+  index: -1
+fish-2
+  rotate: true
+  xy: 1471, 80
+  size: 32, 82
+  orig: 34, 84
+  offset: 1, 1
+  index: -1
+hat-1
+  rotate: false
+  xy: 1112, 47
+  size: 167, 65
+  orig: 167, 65
+  offset: 0, 0
+  index: -1
+hat-2
+  rotate: true
+  xy: 1992, 311
+  size: 100, 54
+  orig: 100, 54
+  offset: 0, 0
+  index: -1
+hat-3
+  rotate: true
+  xy: 1979, 94
+  size: 125, 68
+  orig: 125, 68
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2029, 221
+  size: 14, 21
+  orig: 16, 23
+  offset: 1, 1
+  index: -1
+paint-cat
+  rotate: true
+  xy: 1354, 13
+  size: 45, 51
+  orig: 47, 54
+  offset: 1, 2
+  index: -1
+paint-fish
+  rotate: false
+  xy: 1992, 244
+  size: 50, 65
+  orig: 52, 67
+  offset: 1, 1
+  index: -1
+paint-grass
+  rotate: false
+  xy: 1756, 90
+  size: 78, 110
+  orig: 80, 113
+  offset: 1, 2
+  index: -1
+paint-sea
+  rotate: true
+  xy: 1022, 25
+  size: 87, 88
+  orig: 90, 90
+  offset: 1, 1
+  index: -1
+paint-tree
+  rotate: true
+  xy: 1281, 56
+  size: 56, 71
+  orig: 58, 73
+  offset: 1, 1
+  index: -1
+table
+  rotate: false
+  xy: 2, 8
+  size: 872, 403
+  orig: 874, 406
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 1587, 74
+  size: 167, 126
+  orig: 167, 126
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 876, 17
+  size: 144, 95
+  orig: 147, 97
+  offset: 1, 1
+  index: -1

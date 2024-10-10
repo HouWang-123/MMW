@@ -1,0 +1,90 @@
+﻿
+Meow-MianMian.png
+size: 1087,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7
+  rotate: false
+  xy: 969, 111
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+arm-l
+  rotate: true
+  xy: 559, 19
+  size: 109, 174
+  orig: 109, 174
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 1001, 246
+  size: 84, 133
+  orig: 84, 133
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 4
+  size: 375, 555
+  orig: 375, 555
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 559, 240
+  size: 440, 139
+  orig: 445, 142
+  offset: 3, 1
+  index: -1
+duck
+  rotate: false
+  xy: 962, 12
+  size: 96, 97
+  orig: 99, 99
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 778, 116
+  size: 131, 33
+  orig: 133, 35
+  offset: 1, 1
+  index: -1
+glass-b
+  rotate: false
+  xy: 778, 151
+  size: 189, 87
+  orig: 191, 89
+  offset: 1, 1
+  index: -1
+glass-f
+  rotate: false
+  xy: 559, 130
+  size: 217, 108
+  orig: 219, 110
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 865, 6
+  size: 108, 95
+  orig: 110, 98
+  offset: 1, 2
+  index: -1
+nose
+  rotate: true
+  xy: 911, 124
+  size: 25, 35
+  orig: 27, 37
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 735, 2
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1

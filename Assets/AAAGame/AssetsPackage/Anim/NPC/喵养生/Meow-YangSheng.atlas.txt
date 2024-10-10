@@ -1,0 +1,83 @@
+﻿
+Meow-YangSheng.png
+size: 1175,307
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: true
+  xy: 836, 103
+  size: 202, 90
+  orig: 204, 92
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: false
+  xy: 1055, 8
+  size: 55, 104
+  orig: 55, 106
+  offset: 0, 2
+  index: -1
+body
+  rotate: true
+  xy: 2, 6
+  size: 299, 421
+  orig: 299, 421
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 425, 2
+  size: 54, 13
+  orig: 56, 15
+  offset: 1, 1
+  index: -1
+glass
+  rotate: true
+  xy: 1112, 66
+  size: 116, 57
+  orig: 118, 59
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 798, 37
+  size: 268, 36
+  orig: 268, 36
+  offset: 0, 0
+  index: -1
+leg-l
+  rotate: false
+  xy: 1094, 184
+  size: 79, 121
+  orig: 81, 124
+  offset: 1, 2
+  index: -1
+leg-r
+  rotate: false
+  xy: 971, 8
+  size: 82, 104
+  orig: 85, 107
+  offset: 1, 2
+  index: -1
+nose
+  rotate: false
+  xy: 836, 13
+  size: 133, 88
+  orig: 133, 88
+  offset: 0, 0
+  index: -1
+paper
+  rotate: false
+  xy: 928, 114
+  size: 164, 191
+  orig: 166, 193
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 425, 17
+  size: 288, 371
+  orig: 288, 371
+  offset: 0, 0
+  index: -1

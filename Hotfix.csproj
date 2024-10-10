@@ -82,8 +82,8 @@
     <Compile Include="Assets\AAAGame\Scripts\Entity\PlayerEntity.cs" />
     <Compile Include="Assets\AAAGame\Scripts\UI\UIVariables\GameUIForm.Variables.cs" />
     <Compile Include="Assets\AAAGame\Scripts\UI\UIVariables\LanguagesDialog.Variables.cs" />
-    <Compile Include="Assets\AAAGame\Scripts\Extension\AdSdkHelper.cs" />
     <Compile Include="Assets\AAAGame\Scripts\UI\ToastTips.cs" />
+    <Compile Include="Assets\AAAGame\Scripts\Extension\AdSdkHelper.cs" />
     <Compile Include="Assets\AAAGame\Scripts\Procedures\MenuProcedure.cs" />
     <Compile Include="Assets\AAAGame\Scripts\UI\LanguagesDialog.cs" />
     <Compile Include="Assets\AAAGame\Scripts\UI\Core\UIViews.cs" />
@@ -544,11 +544,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="dnlib">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\dnlib.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\dnlib.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LZ4">
-      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@59bc259cc8\Plugins\LZ4.dll</HintPath>
+      <HintPath>Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\Plugins\LZ4.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">

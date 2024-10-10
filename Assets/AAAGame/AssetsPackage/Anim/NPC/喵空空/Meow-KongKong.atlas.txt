@@ -1,0 +1,90 @@
+﻿
+Meow-KongKong.png
+size: 675,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 176, 281
+  size: 110, 228
+  orig: 110, 228
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 2, 2
+  size: 75, 234
+  orig: 75, 234
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 79, 4
+  size: 232, 594
+  orig: 240, 594
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 2, 238
+  size: 271, 172
+  orig: 271, 172
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 603, 437
+  size: 70, 72
+  orig: 72, 74
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: false
+  xy: 206, 258
+  size: 64, 21
+  orig: 66, 23
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 176, 245
+  size: 28, 34
+  orig: 30, 36
+  offset: 1, 1
+  index: -1
+noodle
+  rotate: true
+  xy: 460, 270
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+noodle-f
+  rotate: false
+  xy: 460, 367
+  size: 141, 142
+  orig: 144, 145
+  offset: 2, 1
+  index: -1
+tail
+  rotate: true
+  xy: 288, 301
+  size: 208, 170
+  orig: 230, 172
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 603, 372
+  size: 63, 69
+  orig: 65, 71
+  offset: 1, 1
+  index: -1
+w-2
+  rotate: false
+  xy: 602, 280
+  size: 67, 85
+  orig: 70, 89
+  offset: 2, 1
+  index: -1

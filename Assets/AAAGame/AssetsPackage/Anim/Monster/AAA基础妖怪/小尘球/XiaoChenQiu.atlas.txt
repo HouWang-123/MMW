@@ -1,0 +1,90 @@
+﻿
+XiaoChenQiu.png
+size: 1556,780
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1454, 108
+  size: 100, 127
+  orig: 102, 130
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: true
+  xy: 1232, 433
+  size: 136, 133
+  orig: 138, 135
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 783, 148
+  size: 630, 403
+  orig: 630, 403
+  offset: 0, 0
+  index: -1
+cycle-b
+  rotate: false
+  xy: 748, 25
+  size: 704, 121
+  orig: 708, 124
+  offset: 2, 1
+  index: -1
+cycle-f
+  rotate: false
+  xy: 2, 2
+  size: 744, 180
+  orig: 746, 183
+  offset: 1, 1
+  index: -1
+dust
+  rotate: true
+  xy: 1188, 571
+  size: 207, 204
+  orig: 210, 207
+  offset: 1, 2
+  index: -1
+eyes-1
+  rotate: true
+  xy: 1188, 151
+  size: 418, 42
+  orig: 421, 45
+  offset: 2, 1
+  index: -1
+eyes-2
+  rotate: true
+  xy: 1394, 361
+  size: 417, 158
+  orig: 417, 273
+  offset: 0, 115
+  index: -1
+hat
+  rotate: false
+  xy: 2, 184
+  size: 779, 594
+  orig: 779, 594
+  offset: 0, 0
+  index: -1
+ring-1
+  rotate: false
+  xy: 1377, 237
+  size: 118, 122
+  orig: 120, 124
+  offset: 1, 1
+  index: -1
+ring-2
+  rotate: true
+  xy: 1454, 5
+  size: 101, 96
+  orig: 103, 98
+  offset: 1, 1
+  index: -1
+ring-3
+  rotate: true
+  xy: 1232, 220
+  size: 139, 143
+  orig: 141, 145
+  offset: 1, 1
+  index: -1

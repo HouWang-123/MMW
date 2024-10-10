@@ -1,0 +1,62 @@
+﻿
+bed monster.png
+size: 1105,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 1029, 346
+  size: 74, 137
+  orig: 76, 139
+  offset: 1, 1
+  index: -1
+arm-r
+  rotate: false
+  xy: 1029, 211
+  size: 63, 133
+  orig: 65, 135
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 37
+  size: 731, 768
+  orig: 731, 768
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 735, 240
+  size: 565, 292
+  orig: 568, 294
+  offset: 1, 1
+  index: -1
+eyes
+  rotate: true
+  xy: 1029, 485
+  size: 320, 61
+  orig: 322, 67
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 735, 14
+  size: 224, 195
+  orig: 226, 197
+  offset: 1, 1
+  index: -1
+lock
+  rotate: false
+  xy: 932, 2
+  size: 113, 136
+  orig: 115, 138
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 932, 140
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1

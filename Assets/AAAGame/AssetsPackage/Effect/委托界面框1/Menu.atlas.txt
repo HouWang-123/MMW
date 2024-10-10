@@ -1,0 +1,27 @@
+﻿
+Menu.png
+size: 1832,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1602, 634
+  size: 305, 228
+  orig: 308, 231
+  offset: 2, 2
+  index: -1
+2
+  rotate: true
+  xy: 1602, 277
+  size: 355, 104
+  orig: 357, 106
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 937, 1598
+  orig: 939, 1600
+  offset: 1, 1
+  index: -1

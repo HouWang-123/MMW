@@ -1,0 +1,76 @@
+﻿
+ShanDian.png
+size: 1648,1072
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TouDing
+  rotate: true
+  xy: 2, 66
+  size: 243, 282
+  orig: 424, 282
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 617, 535
+  size: 550, 535
+  orig: 553, 537
+  offset: 1, 1
+  index: -1
+back-2
+  rotate: false
+  xy: 2, 494
+  size: 613, 576
+  orig: 615, 579
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 1136, 2
+  size: 385, 249
+  orig: 385, 249
+  offset: 0, 0
+  index: -1
+dian-1
+  rotate: false
+  xy: 2, 311
+  size: 377, 181
+  orig: 386, 193
+  offset: 4, 6
+  index: -1
+dian-2
+  rotate: true
+  xy: 381, 138
+  size: 354, 230
+  orig: 364, 241
+  offset: 5, 6
+  index: -1
+dian-3
+  rotate: false
+  xy: 1169, 253
+  size: 411, 394
+  orig: 422, 406
+  offset: 5, 6
+  index: -1
+dian-4
+  rotate: true
+  xy: 1169, 649
+  size: 421, 477
+  orig: 431, 487
+  offset: 5, 5
+  index: -1
+eyes
+  rotate: true
+  xy: 1523, 50
+  size: 201, 97
+  orig: 305, 125
+  offset: 0, 28
+  index: -1
+light
+  rotate: true
+  xy: 617, 41
+  size: 492, 517
+  orig: 527, 563
+  offset: 3, 33
+  index: -1
