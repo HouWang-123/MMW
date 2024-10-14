@@ -54,7 +54,7 @@ public class ChangeSceneProcedure : ProcedureBase
         switch (nextScene)
         {
             case "Game":
-                ChangeState<MenuProcedure>(procedureOwner);
+                //ChangeState<MenuProcedure>(procedureOwner);
                 //GF.Sound.PlayBGM("BillieEilishMusic.wav");
                 break;
         }

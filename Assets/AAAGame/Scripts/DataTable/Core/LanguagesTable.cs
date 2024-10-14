@@ -54,15 +54,6 @@ public class LanguagesTable : DataRowBase
             private set;
         }
 
-        /// <summary>
-        /// 语言图标
-        /// </summary>
-        public string LanguageIcon
-        {
-            get;
-            private set;
-        }
-
         public override bool ParseDataRow(string dataRowString, object userData)
         {
             string[] columnStrings = dataRowString.Split(DataTableExtension.DataSplitSeparators);
@@ -78,7 +69,6 @@ public class LanguagesTable : DataRowBase
             LanguageKey = columnStrings[index++];
             AssetName = columnStrings[index++];
             LanguageDisplay = columnStrings[index++];
-            LanguageIcon = columnStrings[index++];
 
             return true;
         }
@@ -93,7 +83,6 @@ public class LanguagesTable : DataRowBase
                     LanguageKey = binaryReader.ReadString();
                     AssetName = binaryReader.ReadString();
                     LanguageDisplay = binaryReader.ReadString();
-                    LanguageIcon = binaryReader.ReadString();
                 }
             }
 

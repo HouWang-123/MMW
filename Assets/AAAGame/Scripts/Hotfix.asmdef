@@ -10,7 +10,8 @@
         "Builtin.Runtime",
         "UniTask",
         "GameFramework",
-        "DOTween.Extension"
+        "DOTween.Extension",
+        "ZString"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

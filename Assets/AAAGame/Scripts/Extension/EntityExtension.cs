@@ -17,12 +17,13 @@ public static class EntityExtension
     /// <returns></returns>
     public static int ShowEffect(this EntityComponent eCom, string fxName, EntityParams eParams, float lifeTime = 3, int? sortLayer = null)
     {
-        eParams.Set<VarFloat>(ParticleEntity.LIFE_TIME, lifeTime);
-        if (sortLayer != null)
-        {
-            eParams.Set<VarInt32>(ParticleEntity.SORT_LAYER, sortLayer.Value);
-        }
-        return eCom.ShowEntity<ParticleEntity>(fxName, Const.EntityGroup.Effect, eParams);
+        // eParams.Set<VarFloat>(ParticleEntity.LIFE_TIME, lifeTime);
+        // if (sortLayer != null)
+        // {
+        //     eParams.Set<VarInt32>(ParticleEntity.SORT_LAYER, sortLayer.Value);
+        // }
+        // return eCom.ShowEntity<ParticleEntity>(fxName, Const.EntityGroup.Effect, eParams);
+        return default;
     }
 
     public static void ShowPopEmoji(this EntityComponent eCom, string emojiName, EntityParams eParams, Vector3 endPos, float duration = 2)
@@ -46,7 +47,7 @@ public static class EntityExtension
             };
             seqAct.SetAutoKill();
         };
-        eCom.ShowEntity<ParticleEntity>(emojiName, Const.EntityGroup.Effect, eParams);
+        //eCom.ShowEntity<ParticleEntity>(emojiName, Const.EntityGroup.Effect, eParams);
     }
     /// <summary>
     /// 在UI屏幕空间创建飘字
@@ -83,7 +84,7 @@ public static class EntityExtension
             };
             seqAct.SetAutoKill();
         };
-        eCom.ShowEntity<SampleEntity>("Effect/OutOfMoney", Const.EntityGroup.Effect, effectParms);
+        //eCom.ShowEntity<SampleEntity>("Effect/OutOfMoney", Const.EntityGroup.Effect, effectParms);
     }
     /// <summary>
     /// 创建飘字效果
@@ -128,7 +129,7 @@ public static class EntityExtension
             };
             seqAct.SetAutoKill();
         };
-        eCom.ShowEntity<BillboardEntity>("Effect/MoneyText", Const.EntityGroup.Effect, eParams);
+        //eCom.ShowEntity<BillboardEntity>("Effect/MoneyText", Const.EntityGroup.Effect, eParams);
     }
     /// <summary>
     /// 创建Entity
