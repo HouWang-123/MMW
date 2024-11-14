@@ -29,7 +29,5 @@ MonoBehaviour:
   - English
   mProcedures:
   - ChangeSceneProcedure
-  - GameOverProcedure
-  - GameProcedure
-  - MenuProcedure
+  - GameStartProcedures
   - PreloadProcedure

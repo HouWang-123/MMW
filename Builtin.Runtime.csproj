@@ -786,20 +786,12 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>D:\Unity\Editor\2022.3.40f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="HybridCLR.Runtime">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\HybridCLR.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{ba0f517c-be62-64ec-3d39-0eafb05a45aa}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityGameFramework.Runtime.csproj">
       <Project>{875069ac-d400-b64a-2e5b-5274c2adf65c}</Project>
       <Name>UnityGameFramework.Runtime</Name>
@@ -808,9 +800,21 @@
       <Project>{cee3a719-883e-2d53-cea5-7d2b2574258f}</Project>
       <Name>ZString</Name>
     </ProjectReference>
+    <ProjectReference Include="HybridCLR.Runtime.csproj">
+      <Project>{8f6541f3-9a0f-8003-5e61-042c479f0459}</Project>
+      <Name>HybridCLR.Runtime</Name>
+    </ProjectReference>
     <ProjectReference Include="GameFramework.csproj">
       <Project>{805c91d9-df41-2634-3b86-806fd6165e33}</Project>
       <Name>GameFramework</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{2b19c4f3-6244-26d5-4db1-f50287845585}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{338f4b25-4136-48e2-5262-f52346238e55}</Project>
+      <Name>UnityEngine.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

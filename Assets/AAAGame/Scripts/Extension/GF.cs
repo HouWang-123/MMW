@@ -46,7 +46,7 @@ public class GF : GFBuiltin
     private void OnExitGame()
     {
         GF.Event.FireNow(this, ReferencePool.Acquire<PlayerEventArgs>().Fill(PlayerEventType.ExitGame));
-        var exit_time = DateTime.UtcNow.ToString();
+        var exit_time = DateTime.Now.ToString();
         GF.Setting.SetString(ConstBuiltin.Setting.QuitAppTime, exit_time);
         GF.Setting.Save();
         Log.Info("Exit Time:{0}", exit_time);

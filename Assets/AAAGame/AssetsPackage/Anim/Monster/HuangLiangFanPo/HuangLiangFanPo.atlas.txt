@@ -1,0 +1,69 @@
+﻿
+HuangLiangFanPo.png
+size: 2352,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body-b
+  rotate: false
+  xy: 1111, 144
+  size: 650, 214
+  orig: 652, 216
+  offset: 1, 1
+  index: -1
+body-f
+  rotate: false
+  xy: 2, 27
+  size: 652, 331
+  orig: 654, 333
+  offset: 1, 1
+  index: -1
+ear-l
+  rotate: true
+  xy: 1494, 27
+  size: 115, 364
+  orig: 115, 364
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: true
+  xy: 1763, 168
+  size: 190, 324
+  orig: 190, 324
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1111, 23
+  size: 381, 119
+  orig: 383, 121
+  offset: 1, 1
+  index: -1
+hand-l
+  rotate: true
+  xy: 1981, 42
+  size: 124, 102
+  orig: 126, 104
+  offset: 1, 1
+  index: -1
+hand-r
+  rotate: true
+  xy: 1860, 16
+  size: 150, 119
+  orig: 152, 121
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 656, 2
+  size: 453, 356
+  orig: 455, 359
+  offset: 1, 1
+  index: -1
+leg
+  rotate: true
+  xy: 2089, 57
+  size: 301, 261
+  orig: 302, 261
+  offset: 0, 0
+  index: -1

@@ -8,10 +8,7 @@ public class PlayerDataModel : DataModelBase
 {
     public int Coins
     {
-        get
-        {
-            return GF.Setting.GetInt(Const.UserData.MONEY, GF.Config.GetInt("DEFAULT_COINS"));
-        }
+        get { return GF.Setting.GetInt(Const.UserData.MONEY, GF.Config.GetInt("DEFAULT_COINS")); }
         set
         {
             int oldNum = Coins;
@@ -19,30 +16,6 @@ public class PlayerDataModel : DataModelBase
             GF.Setting.SetInt(Const.UserData.MONEY, fixedNum);
             FireUserDataChanged(UserDataType.MONEY, oldNum, fixedNum);
         }
-    }
-    /// <summary>
-    /// 关卡
-    /// </summary>
-    public int GAME_LEVEL
-    {
-        get { return GF.Setting.GetInt(Const.UserData.GAME_LEVEL, 1); }
-        set
-        {
-            var lvTb = GF.DataTable.GetDataTable<LevelTable>();
-            int preLvId = GAME_LEVEL;
-
-            int nextLvId = Const.RepeatLevel ? value : Mathf.Clamp(value, lvTb.MinIdDataRow.Id, lvTb.MaxIdDataRow.Id);
-            GF.Setting.SetInt(Const.UserData.GAME_LEVEL, nextLvId);
-            FireUserDataChanged(UserDataType.GAME_LEVEL, preLvId, nextLvId);
-        }
-    }
-
-    public int GetCurrentLevelId()
-    {
-
-        var lvTb = GF.DataTable.GetDataTable<LevelTable>();
-        if (lvTb == null) Log.Fatal("Get LevelTable failed");
-        return (GAME_LEVEL - 1) % lvTb.MaxIdDataRow.Id + 1;
     }
     internal void ClaimMoney(int bonus, bool showFx, Vector3 fxSpawnPos)
     {
@@ -88,22 +61,22 @@ public class PlayerDataModel : DataModelBase
         var today = DateTime.Today;
         return !(today.Year == dTime.Year && today.Month == dTime.Month && today.Day == dTime.Day);
     }
-    internal void CheckAndShowRating(float ratio)
-    {
-        if (GF.UI.HasUIForm(UIViews.RatingDialog) || GF.Setting.GetBool("RATED_FIVE", false))
-        {
-            return;
-        }
-
-        int show_count = GF.Setting.GetInt(Const.UserData.SHOW_RATING_COUNT, 0);
-        if (show_count > 3 || UnityEngine.Random.value > ratio)
-        {
-            return;
-        }
-
-        GF.Setting.SetInt(Const.UserData.SHOW_RATING_COUNT, ++show_count);
-        GF.UI.OpenUIForm(UIViews.RatingDialog);
-    }
+    // internal void CheckAndShowRating(float ratio)
+    // {
+    //     if (GF.UI.HasUIForm(UIViews.RatingDialog) || GF.Setting.GetBool("RATED_FIVE", false))
+    //     {
+    //         return;
+    //     }
+    //
+    //     int show_count = GF.Setting.GetInt(Const.UserData.SHOW_RATING_COUNT, 0);
+    //     if (show_count > 3 || UnityEngine.Random.value > ratio)
+    //     {
+    //         return;
+    //     }
+    //
+    //     GF.Setting.SetInt(Const.UserData.SHOW_RATING_COUNT, ++show_count);
+    //     GF.UI.OpenUIForm(UIViews.RatingDialog);
+    // }
     /// <summary>
     /// 触发用户数据改变事件
     /// </summary>

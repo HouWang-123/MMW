@@ -45,247 +45,243 @@
     <Analyzer Include="D:\Unity\Editor\2022.3.40f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\GridViewDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\GridView\LoopGridView.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem0.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem11.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\StaggeredGridView\StaggeredGridView_TopToBottomDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\TreeViewItemCountMgr.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ResponsiveGridViewDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\Common\ItemPosMgr.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\TreeViewDataSourceMgr.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem8.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem13.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\GridViewDeleteItemDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ResponsiveGridViewDemoScript2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\ListView\LoopListView2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\PullToRefreshDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\PageViewDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem7.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem4.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\AutoSetAnchorPosForIphonex.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\HorizontalGalleryDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\FPSDisplay.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem17.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem10.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem3.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\LeftToRightDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem18.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\ListView\LoopListViewItem2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem6.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\GridView\LoopGridItemPool.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\Common\ClickEventListener.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\RotateScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\GridViewSampleDemo.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ClickAndLoadMoreDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem9.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\VerticalGalleryDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\GridView\GridViewDemoScript2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem5.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\DragEventHelper.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\GridView\GridItemGroup.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem16.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ChangeViewPortHeightDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\TopToBottomFilterSampleDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ChatMsgDataSourceMgr.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\StaggeredGridView\LoopStaggeredGridViewItem.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\RightToLeftDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\SpinDatePickerDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem1.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\DataSourceMgr.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\TopToBottomDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\PullToLoadMoreDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\StaggeredGridView\StaggeredGridItemPool.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\Common\CommonDefine.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\TopToBottomSampleDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ChatMsgListViewDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\StaggeredGridView\StaggeredGridItemGroup.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem12.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\PullToRefreshAndLoadMoreDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\DragChangSizeScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ResManager.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\StaggeredGridView\StaggeredGridView_LeftToRightDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem14.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\StaggeredGridView\LoopStaggeredGridView.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem19.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\MenuSceneScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\Common\ListItem15.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\BottomToTopDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\TreeViewWithStickyHeadDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\TreeViewDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\GridView\LoopGridViewItem.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\ChangeItemHeightDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\GridView\GridViewDeleteItemDemoScript2.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Demo\Scripts\ListView\DeleteItemDemoScript.cs" />
-    <Compile Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\ListView\LoopListItemPool.cs" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\心之瓶\HeartBottle.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\熬仙儿\ao xian er.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMPro.cginc" />
+    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\HeartBottle\HeartBottle.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.subsystems@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.11\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.jsonserialize@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.burst@1.8.16\package.json" />
     <None Include="Assets\AAAGame\DataTable\Core\LanguagesTable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-绵绵\泵精\BengJing.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Fonts\chars.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\被床封印妖\bed monster.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\逗猫棒\DouMaoBang.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\小尘球\XiaoChenQiu.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\工作狂\GongZuoKuang.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\骗冠\PianGuan.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\疯狂节虱\JieShi.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\球形闪电\JunJun.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\他人凝虱\NingShi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\甲方\JiaFang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BengJing\BengJing.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\DouMaoBang\DouMaoBang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\XiaoChenQiu\XiaoChenQiu.json" />
+    <None Include="Library\PackageCache\com.unity.modules.screencapture@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\GongZuoKuang\GongZuoKuang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BaiRiMeng\BaiRiMeng.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.cloth@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\PianGuan\PianGuan.json" />
+    <None Include="Library\PackageCache\com.unity.modules.ai@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JieShi\JieShi.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JunJun\JunJun.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NingShi\NingShi.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.ugui@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.cinemachine@2.10.1\ValidationExceptions.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JiaFang\JiaFang.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.ext.nunit@1.0.6\package.json" />
     <None Include="Assets\AAAGame\DataTable\ColorTable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\最后三分盅\3min.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\3min\3min.atlas.txt" />
     <None Include="Assets\AAAGame\AssetsPackage\Effect\感叹号\skeleton.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\永久保鲜仙\BaoXian.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\灵器商店\CatStore.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-绵绵\脑空金鱼\NothingFish.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BaoXian\BaoXian.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\CatStore\CatStore.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NothingFish\NothingFish.atlas.txt" />
     <None Include="Assets\AAAGame\DataTable\Core\EntityGroupTable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\扇子\ShanZi.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\晚霞小妖\NightMonster.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\死线\Deadline.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-绵绵\脑空金鱼\NothingFish.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\咯吱吱\GeZhiZhi.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\凉水胖\LiangShuiPang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\ShanZi\ShanZi.json" />
+    <None Include="Library\PackageCache\com.unity.modules.assetbundle@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NightMonster\NightMonster.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.imgui@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\666eye\666eye.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Deadline\Deadline.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NothingFish\NothingFish.json" />
+    <None Include="Library\PackageCache\com.unity.modules.tilemap@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\GeZhiZhi\GeZhiZhi.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\LiangShuiPang\LiangShuiPang.atlas.txt" />
     <None Include="Assets\AAAGame\DataTable\LevelTable#A.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\点击特效\skeleton.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\cilck\skeleton.atlas.txt" />
     <None Include="Assets\AAAGame\Language\Korean.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵米粒\Meow-MiLi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\逗猫棒\DouMaoBang.json" />
+    <None Include="Library\PackageCache\com.unity.timeline@1.7.6\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ZhuGeLiang\ZhuGeLiang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-MiLi\Meow-MiLi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\DouMaoBang\DouMaoBang.json" />
     <None Include="Assets\AAAGame\DataTable\Core\UITable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\猫抓板\MaoZhuaBan.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\MaoZhuaBan\MaoZhuaBan.json" />
     <None Include="Assets\AAAGame\DataTable\LevelTable.txt" />
     <None Include="Assets\AAAGame\Language\English.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\五彩黑\WuCaiHei.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\被床封印妖\bed monster.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵多斯\Meow-DuoSi.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JiuShiZhu\JiuShiZhu.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\ValidationConfig.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\WuCaiHei\WuCaiHei.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-DuoSi\Meow-DuoSi.json" />
+    <None Include="Library\PackageCache\com.unity.modules.terrainphysics@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\package.json" />
+    <None Include="Library\PackageCache\com.unity.scriptablebuildpipeline@2.1.3\package.json" />
     <None Include="Assets\AAAGame\AssetsPackage\Anim\Player\MaoDianZhang.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\疯狂节虱\JieShi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵一珍\Meow-YiZhen.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.burst@1.8.16\ValidationExceptions.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JieShi\JieShi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-YiZhen\Meow-YiZhen.atlas.txt" />
     <None Include="Assets\AAAGame\Language\Japanese.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\小懒腰\XiaoLanYao.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\XiaoLanYao\XiaoLanYao.json" />
+    <None Include="Library\PackageCache\com.unity.timeline@1.7.6\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@2.4.4\package.json" />
     <None Include="Assets\AAAGame\Language\ChineseTraditional.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\武器商店-前\WeaponStore.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\WeaponStore\WeaponStore.json" />
     <None Include="Assets\AAAGame\DataTable\Core\UIGroupTable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\肚肚咕噜噜\hungrrry.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\网络养生砖家\ZhuanJia.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵多斯\Meow-DuoSi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\他人凝虱\NingShi.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵空空\Meow-KongKong.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\蝻子汉\NanZiHan.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\球形闪电\ShanDian.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\YouXiSaiGao\YouXiSaiGao.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\bed monster\bed monster.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\hungrrry\hungrrry.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\PackageConversionData.json" />
+    <None Include="Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ZhuanJia\ZhuanJia.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-DuoSi\Meow-DuoSi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NingShi\NingShi.json" />
+    <None Include="Library\PackageCache\com.tuyoogame.yooasset@2.2.4-preview\package.json" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\package.json" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\ValidationConfig.json" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\so tired\so tired.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.imageconversion@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-KongKong\Meow-KongKong.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\ValidationExceptions.json" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@14.0.11\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NanZiHan\NanZiHan.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.unityanalytics@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\HuangLiangFanPo\HuangLiangFanPo.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ShanDian\ShanDian.atlas.txt" />
     <None Include="Assets\AAAGame\DataTable\CameraViewTable.txt" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@3.0.34\package.json" />
     <None Include="Assets\AAAGame\AssetsPackage\Effect\对勾\skeleton.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\拖延菌\TuoYanJun.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵绵绵\Meow-MianMian.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\猫抓板\MaoZhuaBan.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\蝻子汉\NanZiHan.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\小懒腰\XiaoLanYao.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵一珍\Meow-YiZhen.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\拖延菌\TuoYanJun.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵立波\Meow-LiBo.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵敬业\Meow-JingYe.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\球形闪电\JunJun.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\没个喵样\NoMeow.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-多思\明天来的鸡\tommorrow.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵空空\Meow-KongKong.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-多思\明天来的鸡\tommorrow.json" />
+    <None Include="Library\PackageCache\com.unity.searcher@4.9.2\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\TuoYanJun\TuoYanJun.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-MianMian\Meow-MianMian.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\MaoZhuaBan\MaoZhuaBan.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.video@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.shadergraph@14.0.11\ValidationConfig.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NanZiHan\NanZiHan.json" />
+    <None Include="Library\PackageCache\com.unity.ide.rider@3.0.34\ValidationExceptions.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\XiaoLanYao\XiaoLanYao.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.test-framework@1.1.33\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-YiZhen\Meow-YiZhen.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\TuoYanJun\TuoYanJun.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-LiBo\Meow-LiBo.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-JingYe\Meow-JingYe.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JunJun\JunJun.json" />
+    <None Include="Library\PackageCache\com.unity.modules.particlesystem@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\YouXiSaiGao\YouXiSaiGao.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NoMeow\NoMeow.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\tommorrow\tommorrow.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-KongKong\Meow-KongKong.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\tommorrow\tommorrow.json" />
     <None Include="Assets\AAAGame\AssetsPackage\Effect\对勾\skeleton.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Library\PackageCache\com.unity.modules.physics2d@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.vr@1.0.0\package.json" />
     <None Include="Assets\AAAGame\Shader\TextMeshFont.shader" />
     <None Include="Assets\AAAGame\AssetsPackage\Effect\感叹号\skeleton.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.22\ValidationExceptions.json" />
     <None Include="Assets\link.xml" />
     <None Include="Assets\AAAGame\DataTable\Core\SoundGroupTable.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\菌菌\JunJun.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\今天太累妖\so tired.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\物品背景\skeleton.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\咯吱吱\GeZhiZhi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\物品背景\skeleton.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\委托信件框\Letter.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\骗冠\PianGuan.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\今天太累妖\so tired.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\最后三分盅\3min.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\JunJun\JunJun.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\link.xml" />
+    <None Include="Library\PackageCache\com.unity.modules.wind@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\GuGuGu\GuGuGu.json" />
+    <None Include="Library\PackageCache\com.unity.modules.umbra@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\ItemBG\skeleton.json" />
+    <None Include="Library\PackageCache\com.unity.cinemachine@2.10.1\license.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\GeZhiZhi\GeZhiZhi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\ItemBG\skeleton.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Letter\Letter.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\PianGuan\PianGuan.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\3min\3min.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\so tired\so tired.json" />
     <None Include="Assets\AAAGame\Config\GameConfig.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\小尘球\XiaoChenQiu.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\刻板印蟓\KeBanYinXiang.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\七嘴\QiZui.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\网络养生砖家\ZhuanJia.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\鱼桶\fish.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\忍忍龟\RenRenGui.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-绵绵\泵精\BengJing.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\扇子\ShanZi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\肚肚咕噜噜\hungrrry.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\双面蛟\TwoFaceSnake.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵玲珑\Meow-LingLong.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\小框\XiaoKuang.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\刻板印蟓\KeBanYinXiang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\XiaoChenQiu\XiaoChenQiu.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.audio@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.physics@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\KeBanYinXiang\KeBanYinXiang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\QiZui\QiZui.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ZhuanJia\ZhuanJia.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JiuShiZhu\JiuShiZhu.json" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.11\ValidationExceptions.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\fish\fish.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\RenRenGui\RenRenGui.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BengJing\BengJing.json" />
+    <None Include="Library\PackageCache\com.unity.modules.vehicles@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.cinemachine@2.10.1\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\ShanZi\ShanZi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\hungrrry\hungrrry.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\TwoFaceSnake\TwoFaceSnake.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-LingLong\Meow-LingLong.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\XiaoKuang\XiaoKuang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\KeBanYinXiang\KeBanYinXiang.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0\package.json" />
     <None Include="Assets\AAAGame\AssetsPackage\Anim\Player\MaoDianZhang.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵立波\Meow-LiBo.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\音量框\音量框.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\暴饮暴虱\CrazyEat.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\委托界面框\Menu.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵养生\Meow-YangSheng.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ZhuGeLiang\ZhuGeLiang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-LiBo\Meow-LiBo.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Setting\音量框.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\CrazyEat\CrazyEat.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Menu\Menu.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\bed monster\bed monster.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-YangSheng\Meow-YangSheng.atlas.txt" />
     <None Include="Assets\AAAGame\HotfixDlls\HotfixFileList.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\晚霞小妖\NightMonster.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\自我漠虱\MoShi.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵玲珑\Meow-LingLong.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\暴饮暴虱\CrazyEat.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\灵器商店\CatStore.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\死线\Deadline.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\忍忍龟\RenRenGui.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵敬业\Meow-JingYe.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\武器商店-前\WeaponStore.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NightMonster\NightMonster.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\Editor Resources\Shaders\TMP_SDF_SSD.cginc" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\MoShi\MoShi.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-LingLong\Meow-LingLong.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\CrazyEat\CrazyEat.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\CatStore\CatStore.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.collab-proxy@2.4.4\ValidationConfig.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Deadline\Deadline.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.ai.navigation@1.1.5\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\RenRenGui\RenRenGui.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-JingYe\Meow-JingYe.json" />
+    <None Include="Library\PackageCache\com.unity.modules.xr@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\WeaponStore\WeaponStore.atlas.txt" />
     <None Include="Assets\AAAGame\Language\ChineseSimplified.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵强壮\Meow-QiangZhuang.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵绵绵\Meow-MianMian.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\星星\skeleton.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\五彩黑\WuCaiHei.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\Editor Resources\Shaders\TMP_Properties.cginc" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\AOT\Newtonsoft.Json.xml" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-QiangZhuang\Meow-QiangZhuang.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\666eye\666eye.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-MianMian\Meow-MianMian.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\GuGuGu\GuGuGu.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\star\skeleton.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\WuCaiHei\WuCaiHei.atlas.txt" />
     <None Include="Assets\AAAGame\Shader\ASE\FastLit.shader" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\委托界面框\Menu.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵养生\Meow-YangSheng.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\AAA基础妖怪\菌菌\JunJun.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\永久保鲜仙\BaoXian.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\凉水胖\LiangShuiPang.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\星星\skeleton.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\七嘴\QiZui.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-强壮\没个喵样\NoMeow.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-玲珑\球形闪电\ShanDian.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
-    <None Include="Assets\AAAGame\ThirdParty\SuperScrollView\Scripts\Version 2.4.4.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\点击特效\skeleton.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\小框\XiaoKuang.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\心之瓶\HeartBottle.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\鱼桶\fish.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\甲方\JiaFang.json" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\Meow-敬业\工作狂\GongZuoKuang.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\Editor Resources\Shaders\TMP_SDF Internal Editor.shader" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ErCiYuan\ErCiYuan.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Menu\Menu.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-YangSheng\Meow-YangSheng.json" />
+    <None Include="Library\PackageCache\com.unity.modules.director@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\DefaultMonster\JunJun\JunJun.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BaoXian\BaoXian.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\LiangShuiPang\LiangShuiPang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\star\skeleton.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\QiZui\QiZui.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\NoMeow\NoMeow.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\HuangLiangFanPo\HuangLiangFanPo.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ao xian er\ao xian er.atlas.txt" />
+    <None Include="Library\PackageCache\com.unity.modules.terrain@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.2d.sprite@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ShanDian\ShanDian.json" />
+    <None Include="Library\PackageCache\com.unity.modules.androidjni@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\cilck\skeleton.json" />
+    <None Include="Library\PackageCache\com.unity.textmeshpro@3.0.8\PackageConversionData_Assets.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\XiaoKuang\XiaoKuang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\HeartBottle\HeartBottle.json" />
+    <None Include="Library\PackageCache\com.unity.mathematics@1.2.6\ValidationExceptions.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\fish\fish.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ao xian er\ao xian er.json" />
+    <None Include="Library\PackageCache\com.unity.modules.animation@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.code-philosophy.hybridclr@64a6d26fa3\package.json" />
+    <None Include="Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.xml" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\JiaFang\JiaFang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\GongZuoKuang\GongZuoKuang.json" />
+    <None Include="Library\PackageCache\com.unity.burst@1.8.16\Unity.Burst.Unsafe.xml" />
     <None Include="Assets\AAAGame\AssetsPackage\Font\TextTexture.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\自我漠虱\MoShi.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\委托信件框\Letter.atlas.txt" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\熬仙儿\ao xian er.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\双面蛟\TwoFaceSnake.atlas.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Sprites\EmojiOne.json" />
+    <None Include="Library\PackageCache\com.unity.render-pipelines.universal@14.0.11\ValidationConfig.json" />
+    <None Include="Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0\package.json" />
+    <None Include="Library\PackageCache\com.unity.modules.uielements@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\MoShi\MoShi.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Letter\Letter.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\TwoFaceSnake\TwoFaceSnake.atlas.txt" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\ErCiYuan\ErCiYuan.json" />
     <None Include="Assets\AAAGame\Config\GameConfig#A.txt" />
-    <None Include="Assets\AAAGame\ThirdParty\TextMesh Pro\Shaders\TMP_Sprite.shader" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵强壮\Meow-QiangZhuang.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Effect\音量框\音量框.json" />
-    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\喵米粒\Meow-MiLi.json" />
+    <None Include="Library\PackageCache\com.unity.modules.ui@1.0.0\package.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-QiangZhuang\Meow-QiangZhuang.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\Monster\BaiRiMeng\BaiRiMeng.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Effect\Setting\音量框.json" />
+    <None Include="Assets\AAAGame\AssetsPackage\Anim\NPC\Meow-MiLi\Meow-MiLi.json" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Unity\Editor\2022.3.40f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -973,126 +969,6 @@
     <Reference Include="System.Xml.XPath.XDocument">
       <HintPath>D:\Unity\Editor\2022.3.40f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Xml.XPath.XDocument.dll</HintPath>
     </Reference>
-    <Reference Include="HybridCLR.Runtime">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\HybridCLR.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="YooAsset">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\YooAsset.dll</HintPath>
-    </Reference>
-    <Reference Include="HybridCLR.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\HybridCLR.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json.UnityConverters.Mathematics">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Newtonsoft.Json.UnityConverters.Mathematics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ScriptableBuildPipeline">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Config.Runtime">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Config.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="PPv2URPConverters">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\PPv2URPConverters.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Burst">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Timeline">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Updater">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json.UnityConverters">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Newtonsoft.Json.UnityConverters.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Searcher.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="YooAsset.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\YooAsset.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.ScriptableBuildPipeline.Editor">
-      <HintPath>D:\UnityProject\MMW\Library\ScriptAssemblies\Unity.ScriptableBuildPipeline.Editor.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UniTask.Addressables.csproj">
@@ -1103,13 +979,73 @@
       <Project>{875069ac-d400-b64a-2e5b-5274c2adf65c}</Project>
       <Name>UnityGameFramework.Runtime</Name>
     </ProjectReference>
+    <ProjectReference Include="HybridCLR.Runtime.csproj">
+      <Project>{8f6541f3-9a0f-8003-5e61-042c479f0459}</Project>
+      <Name>HybridCLR.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{6f02f9d4-bb9c-7483-c150-cb0da7470276}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{ac42f790-f925-ab74-d863-07537fbc01a2}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
+    </ProjectReference>
     <ProjectReference Include="GameFramework.csproj">
       <Project>{805c91d9-df41-2634-3b86-806fd6165e33}</Project>
       <Name>GameFramework</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.csproj">
+      <Project>{ed9878fb-fd43-11d1-1350-7cea2da91472}</Project>
+      <Name>Unity.AI.Navigation</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{816612bf-cd23-79ad-1727-9dd1129a61a4}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="YooAsset.csproj">
+      <Project>{4f7d7339-570b-481a-2119-0f16f21f4018}</Project>
+      <Name>YooAsset</Name>
+    </ProjectReference>
+    <ProjectReference Include="HybridCLR.Editor.csproj">
+      <Project>{6435d368-f331-7cbc-ac6e-8d272c7ae077}</Project>
+      <Name>HybridCLR.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Newtonsoft.Json.UnityConverters.Mathematics.csproj">
+      <Project>{8e7ffb43-a80a-9aec-0d03-f4d80b795a8c}</Project>
+      <Name>Newtonsoft.Json.UnityConverters.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ScriptableBuildPipeline.csproj">
+      <Project>{2f020f35-d2b3-4d32-c9e2-78f8b97b110a}</Project>
+      <Name>Unity.ScriptableBuildPipeline</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityGameFramework.Editor.csproj">
       <Project>{fab4f4da-24c6-b51a-bc4b-2196b69276bb}</Project>
       <Name>UnityGameFramework.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{62cad31c-6294-793e-f7fb-586f72293435}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{ef94b17c-abf1-8068-ed9a-6414e54fb47a}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
+      <Project>{6ed2346d-7324-a045-0cd9-3f8f2c23e2a0}</Project>
+      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{fe2bd546-67ba-f311-aaa3-c7ab6a5ce6d2}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{f61b793c-1531-5ea7-2200-22b55b3621ff}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
+      <Project>{997ebd47-eba2-f6f8-0cd1-6cdbbf429411}</Project>
+      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.csproj">
       <Project>{cd477eb4-72c0-dee6-29d1-8083a9c2d362}</Project>
@@ -1123,13 +1059,33 @@
       <Project>{07e9bba7-183f-34ed-76ae-38f94802755c}</Project>
       <Name>UniTask.TextMeshPro</Name>
     </ProjectReference>
+    <ProjectReference Include="PPv2URPConverters.csproj">
+      <Project>{5ed80f96-2655-a725-23b2-f424ae67646f}</Project>
+      <Name>PPv2URPConverters</Name>
+    </ProjectReference>
     <ProjectReference Include="Hotfix.csproj">
       <Project>{36f6a3b1-61f5-5efe-a8fe-78137e26c27f}</Project>
       <Name>Hotfix</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{ba0f517c-be62-64ec-3d39-0eafb05a45aa}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.ConversionSystem.csproj">
+      <Project>{d36228b5-6f34-d166-f737-66a35bb9c9bd}</Project>
+      <Name>Unity.AI.Navigation.Editor.ConversionSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{7dafca24-5c8a-a62f-9a5b-02cf7aa6d481}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Builtin.Runtime.csproj">
       <Project>{6a0ec3cd-e889-3987-00b4-6d45616e12d8}</Project>
       <Name>Builtin.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
+      <Project>{162dd6e1-0e7c-b49f-6262-2ea18a15ff70}</Project>
+      <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.Linq.csproj">
       <Project>{8f5deb77-ffa9-d205-1f13-f8659ab1281b}</Project>
@@ -1139,13 +1095,93 @@
       <Project>{cee3a719-883e-2d53-cea5-7d2b2574258f}</Project>
       <Name>ZString</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
+      <Project>{2324271d-aba9-2b2e-0613-14ad77528202}</Project>
+      <Name>Unity.RenderPipelines.Universal.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{f2fe304d-c709-a135-2f8a-8bb4b765d637}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.csproj">
+      <Project>{0328234a-09f7-2cc6-eef4-5b4e8b6f17de}</Project>
+      <Name>Unity.Burst</Name>
+    </ProjectReference>
     <ProjectReference Include="spine-unity.csproj">
       <Project>{19d76579-57ed-7658-1410-7c07c7cae5ec}</Project>
       <Name>spine-unity</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.Editor.csproj">
+      <Project>{f355075f-d43e-2cd5-0f8a-39e64af94b54}</Project>
+      <Name>Unity.Timeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ShaderGraph.Editor.csproj">
+      <Project>{1e7e4ddd-9992-9f5c-bbf7-deee993179a0}</Project>
+      <Name>Unity.ShaderGraph.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
+      <Project>{6cff5edc-f06b-01ab-b1fb-f4f348192bdb}</Project>
+      <Name>Unity.VisualStudio.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{2b19c4f3-6244-26d5-4db1-f50287845585}</Project>
+      <Name>UnityEditor.UI</Name>
+    </ProjectReference>
     <ProjectReference Include="DOTween.Extension.csproj">
       <Project>{b32173d1-3972-d27b-8a85-2384ba5e9955}</Project>
       <Name>DOTween.Extension</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.csproj">
+      <Project>{338f4b25-4136-48e2-5262-f52346238e55}</Project>
+      <Name>UnityEngine.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
+      <Project>{da53df84-c2b9-e2b3-0e16-f0e857dd17a6}</Project>
+      <Name>Unity.RenderPipeline.Universal.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Timeline.csproj">
+      <Project>{57186f1f-2fa5-fcf5-0d2e-3aed03805b47}</Project>
+      <Name>Unity.Timeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Updater.csproj">
+      <Project>{b83e4fd7-a545-0252-4037-bb77746d66dd}</Project>
+      <Name>Unity.AI.Navigation.Updater</Name>
+    </ProjectReference>
+    <ProjectReference Include="Newtonsoft.Json.UnityConverters.csproj">
+      <Project>{fb14a206-44f3-2607-0e78-2b776262c072}</Project>
+      <Name>Newtonsoft.Json.UnityConverters</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.csproj">
+      <Project>{b386ceef-5333-10db-6dcc-98c6814bc565}</Project>
+      <Name>Unity.Mathematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{af10c713-748c-8e61-b0d5-7fb3162789bd}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
+      <Project>{eeaf8c6a-5713-f5bd-407a-371dddbb61d5}</Project>
+      <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Searcher.Editor.csproj">
+      <Project>{15c29660-e278-84c9-1e7c-1ed714497c44}</Project>
+      <Name>Unity.Searcher.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="YooAsset.Editor.csproj">
+      <Project>{9c4aa8de-2f9a-147a-1b35-d06208b39399}</Project>
+      <Name>YooAsset.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.AI.Navigation.Editor.csproj">
+      <Project>{0a3f72d2-ff89-2705-39ad-54d56c706da7}</Project>
+      <Name>Unity.AI.Navigation.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{a7f6e041-3e3a-d3b2-0b1c-0c9bce6fb0f7}</Project>
+      <Name>Cinemachine</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ScriptableBuildPipeline.Editor.csproj">
+      <Project>{7a601be4-6493-1011-bcce-1075e5403a29}</Project>
+      <Name>Unity.ScriptableBuildPipeline.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UniTask.DOTween.csproj">
       <Project>{1e5c33d3-7722-7873-d8dc-669fd450d6db}</Project>

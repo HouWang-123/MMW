@@ -34,7 +34,7 @@ public class ChangeSceneProcedure : ProcedureBase
         {
             GF.Scene.UnloadScene(loadedSceneAssetNames[i]);
         }
-
+    
         // 还原游戏速度
         GF.Base.ResetNormalGameSpeed();
 
@@ -55,6 +55,7 @@ public class ChangeSceneProcedure : ProcedureBase
         {
             case "Game":
                 //ChangeState<MenuProcedure>(procedureOwner);
+                ChangeState<GameStartProcedures>(procedureOwner);
                 //GF.Sound.PlayBGM("BillieEilishMusic.wav");
                 break;
         }

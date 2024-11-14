@@ -1,0 +1,104 @@
+﻿
+BaiRiMeng.png
+size: 1767,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 705, 465
+  orig: 707, 467
+  offset: 1, 1
+  index: -1
+ear-l
+  rotate: false
+  xy: 709, 165
+  size: 213, 302
+  orig: 213, 302
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: false
+  xy: 924, 181
+  size: 277, 286
+  orig: 277, 286
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1654, 115
+  size: 244, 99
+  orig: 246, 102
+  offset: 1, 2
+  index: -1
+hat-1
+  rotate: false
+  xy: 1398, 213
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+hat-2
+  rotate: true
+  xy: 1203, 200
+  size: 267, 193
+  orig: 267, 193
+  offset: 0, 0
+  index: -1
+leg-1
+  rotate: false
+  xy: 1007, 6
+  size: 121, 173
+  orig: 123, 176
+  offset: 1, 2
+  index: -1
+leg-2
+  rotate: false
+  xy: 1296, 30
+  size: 119, 168
+  orig: 122, 170
+  offset: 1, 1
+  index: -1
+leg-3
+  rotate: false
+  xy: 878, 8
+  size: 127, 155
+  orig: 129, 157
+  offset: 1, 1
+  index: -1
+leg-b1
+  rotate: false
+  xy: 1585, 19
+  size: 122, 94
+  orig: 124, 97
+  offset: 1, 2
+  index: -1
+leg-b2
+  rotate: false
+  xy: 1654, 361
+  size: 111, 106
+  orig: 114, 110
+  offset: 2, 2
+  index: -1
+tail
+  rotate: false
+  xy: 1130, 7
+  size: 164, 172
+  orig: 166, 175
+  offset: 1, 1
+  index: -1
+wing-b
+  rotate: false
+  xy: 709, 7
+  size: 167, 156
+  orig: 170, 158
+  offset: 1, 1
+  index: -1
+wing-f
+  rotate: true
+  xy: 1417, 14
+  size: 197, 166
+  orig: 199, 168
+  offset: 1, 1
+  index: -1

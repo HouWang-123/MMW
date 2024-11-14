@@ -8,6 +8,6 @@ namespace UGF.EditorTools
             textureImporter.textureType = TextureImporterType.Sprite;
             textureImporter.isReadable = true;
             textureImporter.mipmapEnabled = false;
-        }
+		}
 	}
 }

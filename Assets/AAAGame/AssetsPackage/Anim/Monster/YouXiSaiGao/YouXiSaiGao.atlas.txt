@@ -1,0 +1,62 @@
+﻿
+YouXiSaiGao.png
+size: 1680,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: true
+  xy: 1436, 19
+  size: 196, 139
+  orig: 200, 142
+  offset: 3, 1
+  index: -1
+body
+  rotate: true
+  xy: 605, 66
+  size: 446, 586
+  orig: 765, 586
+  offset: 319, 0
+  index: -1
+ear-l
+  rotate: false
+  xy: 1414, 217
+  size: 236, 295
+  orig: 236, 295
+  offset: 0, 0
+  index: -1
+ear-r
+  rotate: true
+  xy: 1193, 193
+  size: 319, 219
+  orig: 319, 219
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1577, 7
+  size: 208, 101
+  orig: 210, 103
+  offset: 1, 1
+  index: -1
+eyebrow
+  rotate: false
+  xy: 605, 38
+  size: 94, 26
+  orig: 96, 28
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 1193, 48
+  size: 241, 143
+  orig: 271, 147
+  offset: 4, 1
+  index: -1
+tail
+  rotate: false
+  xy: 2, 2
+  size: 601, 510
+  orig: 601, 510
+  offset: 0, 0
+  index: -1

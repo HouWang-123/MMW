@@ -6,27 +6,27 @@ using UnityGameFramework.Runtime;
 public abstract class AdSdkHelper : MonoBehaviour
 {
     /// <summary>
-    /// ²åÆÁ¹ã¸æ¶ÁÈ¡»Øµ÷
+    /// æ’å±å¹¿å‘Šè¯»å–å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mInterstitialAdLoadedEvent;
     /// <summary>
-    /// ¼¤Àø¹ã¸æ¶ÁÈ¡»Øµ÷
+    /// æ¿€åŠ±å¹¿å‘Šè¯»å–å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mRewardedAdLoadedEvent;
     /// <summary>
-    /// ²îÆÀ¹ã¸æ¹Ø±Õ»Øµ÷
+    /// å·®è¯„å¹¿å‘Šå…³é—­å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mInterstitialAdClosedEvent;
     /// <summary>
-    /// ¼¤Àø¹ã¸æ¹Ø±Õ»Øµ÷
+    /// æ¿€åŠ±å¹¿å‘Šå…³é—­å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mRewardedAdClosedEvent;
     /// <summary>
-    /// ²åÆÁ¹ã¸æ´ò¿ª»Øµ÷
+    /// æ’å±å¹¿å‘Šæ‰“å¼€å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mInterstitialAdOpenEvent;
     /// <summary>
-    /// ¼¤Àø¹ã¸æ´ò¿ª»Øµ÷
+    /// æ¿€åŠ±å¹¿å‘Šæ‰“å¼€å›è°ƒ
     /// </summary>
     public GameFrameworkAction<bool> mRewardedAdOpenEvent;
 
@@ -52,9 +52,9 @@ public abstract class AdSdkHelper : MonoBehaviour
     }
 
     /// <summary>
-    /// SDK³õÊ¼»¯³É¹¦»Øµ÷,ĞèÇşµÀÀàÊÖ¶¯µ÷ÓÃ
+    /// SDKåˆå§‹åŒ–æˆåŠŸå›è°ƒ,éœ€æ¸ é“ç±»æ‰‹åŠ¨è°ƒç”¨
     /// </summary>
-    /// <param name="result">³õÊ¼»¯ÊÇ·ñ³É¹¦</param>
+    /// <param name="result">åˆå§‹åŒ–æ˜¯å¦æˆåŠŸ</param>
     protected virtual void OnSdkInitialized(bool result)
     {
         SdkIsReady = result;

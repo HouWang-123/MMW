@@ -13,7 +13,7 @@ public class BuiltinViewComponent : GameFrameworkComponent
 {
     [Header("Loading Progress:")]
     [SerializeField] GameObject loadingProgressNode = null;
-    [SerializeField] private TextMeshProUGUI loadSliderText;
+    [SerializeField] private Image Icon;
     [SerializeField] private Slider loadSlider;
 
     [Space(20)]
@@ -61,12 +61,17 @@ public class BuiltinViewComponent : GameFrameworkComponent
     public void ShowLoadingProgress(float defaultProgress = 0)
     {
         loadingProgressNode.SetActive(true);
+        StartIconAnim();
         SetLoadingProgress(defaultProgress);
     }
     public void SetLoadingProgress(float progress)
     {
         loadSlider.value = progress;
-        loadSliderText.text = Utility.Text.Format("{0:N0}%", loadSlider.value * 100);
+    }
+
+    private void StartIconAnim()
+    {
+        this.Icon.transform.DOLocalRotate(new Vector3(0,0,-360), 2f).SetEase(Ease.Linear).SetLoops(-1, LoopType.Restart);
     }
 
     public void HideLoadingProgress()

@@ -1,0 +1,48 @@
+﻿
+ErCiYuan.png
+size: 1096,660
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-l
+  rotate: false
+  xy: 744, 34
+  size: 138, 237
+  orig: 138, 237
+  offset: 0, 0
+  index: -1
+arm-r
+  rotate: false
+  xy: 884, 35
+  size: 128, 236
+  orig: 128, 236
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 744, 273
+  size: 385, 275
+  orig: 385, 275
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 10
+  size: 648, 740
+  orig: 648, 740
+  offset: 0, 0
+  index: -1
+mouth-happy
+  rotate: true
+  xy: 1021, 2
+  size: 327, 64
+  orig: 329, 66
+  offset: 1, 1
+  index: -1
+mouth-sad
+  rotate: true
+  xy: 1021, 331
+  size: 327, 73
+  orig: 329, 75
+  offset: 1, 1
+  index: -1

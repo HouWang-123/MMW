@@ -1,0 +1,48 @@
+﻿
+ZhuGeLiang.png
+size: 1117,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 636, 743
+  orig: 636, 743
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 879, 78
+  size: 236, 51
+  orig: 239, 53
+  offset: 2, 1
+  index: -1
+hand
+  rotate: true
+  xy: 747, 23
+  size: 106, 130
+  orig: 108, 132
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 879, 36
+  size: 200, 40
+  orig: 202, 42
+  offset: 1, 1
+  index: -1
+teer
+  rotate: false
+  xy: 747, 131
+  size: 315, 44
+  orig: 317, 46
+  offset: 1, 1
+  index: -1
+thing
+  rotate: true
+  xy: 747, 177
+  size: 461, 367
+  orig: 461, 367
+  offset: 0, 0
+  index: -1

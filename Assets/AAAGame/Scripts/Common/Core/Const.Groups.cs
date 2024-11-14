@@ -13,6 +13,7 @@ public static partial class Const
 	}
 	public enum UIGroup
 	{
+		UIScenes,
 		UIForm,
 		Dialog,
 		Tips
@@ -22,6 +23,6 @@ public static partial class Const
 		Music,
 		Sound,
 		Vibrate,
-		Joystick
+		Click
 	}
 }

@@ -2,6 +2,7 @@
 #	ID		Name	Depth
 #	int		string	int
 #		备注		
-	1	全屏界面	UIForm	0
-	2	对话框	Dialog	1
-	3	提示	Tips	2
+	1	场景	UIScenes	0
+	2	全屏界面	UIForm	1
+	3	对话框	Dialog	2
+	4	提示	Tips	3

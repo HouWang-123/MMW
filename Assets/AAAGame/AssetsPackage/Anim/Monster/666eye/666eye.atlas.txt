@@ -1,0 +1,62 @@
+﻿
+666eye.png
+size: 1200,622
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 650, 618
+  orig: 650, 692
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 654, 22
+  size: 273, 227
+  orig: 275, 229
+  offset: 1, 1
+  index: -1
+eyeball
+  rotate: true
+  xy: 1068, 87
+  size: 134, 130
+  orig: 137, 132
+  offset: 1, 1
+  index: -1
+jiao
+  rotate: true
+  xy: 883, 24
+  size: 271, 183
+  orig: 273, 185
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 934, 310
+  size: 66, 39
+  orig: 68, 41
+  offset: 1, 1
+  index: -1
+tail
+  rotate: true
+  xy: 654, 297
+  size: 323, 278
+  orig: 323, 278
+  offset: 0, 0
+  index: -1
+wing-l
+  rotate: true
+  xy: 934, 378
+  size: 242, 178
+  orig: 242, 178
+  offset: 0, 0
+  index: -1
+wing-r
+  rotate: false
+  xy: 1068, 223
+  size: 87, 153
+  orig: 87, 153
+  offset: 0, 0
+  index: -1

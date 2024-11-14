@@ -11,7 +11,8 @@
         "UniTask",
         "GameFramework",
         "DOTween.Extension",
-        "ZString"
+        "ZString",
+        "spine-unity"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

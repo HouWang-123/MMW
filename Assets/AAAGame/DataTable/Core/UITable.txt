@@ -3,11 +3,6 @@
 #	int		int	string	bool	string	bool
 #		备注			同组界面被覆盖时是否隐藏	UI组	返回键触发关闭界面
 	1	游戏界面	0	GameUIForm	True	UIForm	False
-	2		30	SettingDialog	True	Dialog	True
-	3		31	RatingDialog	True	Dialog	True
-	4		31	TermsOfServiceDialog	True	Dialog	True
-	5		30	CommonDialog	True	Dialog	False
-	6		999	ToastTips	False	Tips	False
-	7		10	GameOverUIForm	True	UIForm	False
-	8		0	MenuUIForm	True	UIForm	False
-	9		31	LanguagesDialog	False	Dialog	True
+	2	主场景	0	UIScene	False	UIScenes	False
+	3	主页面	1	MainPanel	True	UIForm	False
+	4	设置页面	1	SettingPanel	False	UIForm	False

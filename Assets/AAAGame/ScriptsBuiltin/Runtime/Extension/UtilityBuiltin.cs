@@ -110,6 +110,7 @@ public static class UtilityBuiltin
         {
             return Utility.Path.GetRegularPath(System.IO.Path.Combine(args));
         }
+
         public static string GetDataTablePath(string name)
         {
             return Utility.Text.Format("Assets/AAAGame/DataTable/{0}.txt", name);
@@ -124,6 +125,7 @@ public static class UtilityBuiltin
         {
             return Utility.Text.Format("Assets/AAAGame/Scene/{0}.unity", name);
         }
+
         public static string GetEntityPath(string name)
         {
             return Utility.Text.Format("Assets/AAAGame/Prefabs/Entity/{0}.prefab", name);
@@ -131,18 +133,25 @@ public static class UtilityBuiltin
 
         public static string GetUIFormPath(string v)
         {
-            return Utility.Text.Format("Assets/AAAGame/Prefabs/UI/{0}.prefab", v);
+            return Utility.Text.Format("Assets/AAAGame/AssetsPackage/UIForm/{0}.prefab", v);
         }
 
         public static string GetTexturePath(string fileName)
         {
             return Utility.Text.Format("Assets/AAAGame/Textures/{0}", fileName);
         }
+
         public static string GetSpritesPath(string fileName)
         {
             return Utility.Text.Format("Assets/AAAGame/Sprites/{0}", fileName);
         }
-        public static string GetConfigPath(string v)
+
+        public static string GetUIScenePath(string fileName)
+        {
+            return Utility.Text.Format("Assets/AAAGame/AssetsPackage/Sprites/UIScene/{0}", fileName);
+        }
+
+    public static string GetConfigPath(string v)
         {
             return Utility.Text.Format("Assets/AAAGame/Config/{0}.txt", v);
         }

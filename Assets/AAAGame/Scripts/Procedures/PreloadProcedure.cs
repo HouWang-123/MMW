@@ -126,7 +126,7 @@ public class PreloadProcedure : ProcedureBase
         GF.Setting.SetMediaMute(Const.SoundGroup.Music, GF.Setting.GetMediaMute(Const.SoundGroup.Music, defaultSoundGroupData[Const.SoundGroup.Music.ToString()].Mute));
         GF.Setting.SetMediaMute(Const.SoundGroup.Sound, GF.Setting.GetMediaMute(Const.SoundGroup.Sound, defaultSoundGroupData[Const.SoundGroup.Sound.ToString()].Mute));
         GF.Setting.SetMediaMute(Const.SoundGroup.Vibrate, GF.Setting.GetMediaMute(Const.SoundGroup.Vibrate, defaultSoundGroupData[Const.SoundGroup.Vibrate.ToString()].Mute));
-        GF.Setting.SetMediaMute(Const.SoundGroup.Joystick, GF.Setting.GetMediaMute(Const.SoundGroup.Joystick, defaultSoundGroupData[Const.SoundGroup.Joystick.ToString()].Mute));
+        GF.Setting.SetMediaMute(Const.SoundGroup.Click, GF.Setting.GetMediaMute(Const.SoundGroup.Click, defaultSoundGroupData[Const.SoundGroup.Click.ToString()].Mute));
 
         GF.Setting.SetMediaVolume(Const.SoundGroup.Music, GF.Setting.GetMediaVolume(Const.SoundGroup.Music, defaultSoundGroupData[Const.SoundGroup.Music.ToString()].Volume));
         GF.Setting.SetMediaVolume(Const.SoundGroup.Sound, GF.Setting.GetMediaVolume(Const.SoundGroup.Sound, defaultSoundGroupData[Const.SoundGroup.Sound.ToString()].Volume));
@@ -196,7 +196,7 @@ public class PreloadProcedure : ProcedureBase
         var langRow = langTb.GetDataRow(row=>row.LanguageKey == languageName);
         if (langRow == null)
         {
-            language = GameFramework.Localization.Language.English;//不支持的语言默认用英文
+            language = GameFramework.Localization.Language.ChineseSimplified;//不支持的语言默认用英文
             langRow = langTb.GetDataRow(row => row.LanguageKey == language.ToString());
         }
         GF.Setting.SetLanguage(language, false);

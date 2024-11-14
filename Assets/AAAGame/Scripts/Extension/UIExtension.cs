@@ -139,11 +139,11 @@ public static class UIExtension
         {
             return;
         }
-        var uiParams = UIParams.Create();
+        // var uiParams = UIParams.Create();
         // uiParams.Set<VarString>(ToastTips.P_Text, text);
         // uiParams.Set<VarFloat>(ToastTips.P_Duration, duration);
         // uiParams.Set<VarUInt32>(ToastTips.P_Style, (uint)style);
-        ui.OpenUIForm(UIViews.ToastTips, uiParams);
+        // ui.OpenUIForm(UIViews.ToastTips, uiParams);
     }
 
     /// <summary>
@@ -175,7 +175,7 @@ public static class UIExtension
         parms.SortOrder ??= uiRow.SortOrder;
         return uiCom.OpenUIForm(uiName, uiRow.UIGroup, uiRow.PauseCoveredUI, parms);
     }
-
+    
     /// <summary>
     /// 关闭UI界面(关闭前播放UI界面关闭动画)
     /// </summary>

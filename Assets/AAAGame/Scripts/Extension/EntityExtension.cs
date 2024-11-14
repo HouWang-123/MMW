@@ -11,7 +11,7 @@ public static class EntityExtension
     /// 创建粒子特效
     /// </summary>
     /// <param name="eCom"></param>
-    /// <param name="fxName">特效prefab, 相对路径AAAGame/Prefabs/Entity/</param>
+    /// <param name="fxName">特效prefab, 相对路径AAAGame/AssetsPackage/Effect/</param>
     /// <param name="spawnPos">特效位置</param>
     /// <param name="lifeTime">几秒后销毁粒子</param>
     /// <returns></returns>
